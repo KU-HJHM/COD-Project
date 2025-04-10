@@ -1,0 +1,875 @@
+
+<Book id="" korname="상서고주" chiname="尙書古注">
+	<Volume id = "V1" name = "권1">卷1
+		<Section id = "S1" name = "우하서">虞夏書
+			<Commentary id = "S1C" name = "우하서주석">
+				<Glossary id = "S1_G" name = "우하서_훈고">
+					<Citation id = "S1_GCI1" name = "우하서_훈고1인용"><Refer id = "S1_GCI1R" name = "우하서_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person><Book id = "B001" korname = "서찬" chiname = "書贊">書贊</Book></Refer><Text>虞夏書二十篇</Text></Citation>
+					<Citation id = "S1_GCI2" name = "우하서_훈고2인용"><Refer id = "S1_GCI2R" name = "우하서_훈고1인용2출처"><Person id = "P002" korname = "공영달" chiname = "孔穎達">孔穎達</Person></Refer>曰<Text><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person><Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person>別錄 題皆曰虞夏書</Text></Citation>
+					<Citation id = "S1_GCI3" name = "우하서_훈고13인용">又<Refer id = "S1_GCI3R" name = "우하서_훈고1인용1출처"></Refer>曰<Text>虞舜與禹 相接 事相關穿故 尙書堯舜禹之書 謂之虞夏書<Person id = "P005" korname = "복생" chiname = "伏生">伏生</Person><Book id = "B002" korname = "상서대전" chiname = "尙書大傳">書傳</Book>有虞夏傳</Text></Citation>
+					<Opin id = "S1_GO1" name = "우하서_훈고1견해">
+						綽按<Citation id = "S1_GO1CI1" name = "우하서_훈고1견해1인용"><Refer id = "S1_GO1CI1R" name = "우하서_훈고1견해1인용출처"><Person id = "P006" korname = "허신" chiname = "許愼">許愼</Person><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book> 引唐書曰<Text id = "S1_GO1CI1T" name = "우하서_훈고1견해1인용구절">五品不遜</Text></Refer></Citation> 
+						<Citation id = "S1_GO1CI2" name = "우하서_훈고1견해2인용"><Refer id = "S1_GO1CI2R" name = "우하서_훈고1견해2인용출처"><Book id = "B004" korname = "삼국지" chiname = "三國志">三國志</Book><Part id = "Pa001" korname = "육항상정령다궐소" chiname = "陸抗上政令多闕疏">陸杭疏</Part></Refer> 稱<Text id = "S1_GO1CI1T" name = "우하서_훈고1견해2인용구절">靖譖庸回 唐書攸戒</Text></Citation> 並以堯典爲唐書
+						<Citation id = "S1_GO1CI3" name = "우하서_훈고1견해3인용"><Refer id = "S1_GO1CI3R" name = "우하서_훈고1견해3인용출처"><Book id = "B005" korname = "상서대전" chiname = "尙書大傳">大傳</Book></Refer>雖曰<Text id = "S1_GO1CI3T1" name = "우하서_훈고1견해3인용1구절">虞夏傳</Text> 而<Text id = "S1_GO1CI3T2" name = "우하서_훈고1견해3인용2구절">虞夏傳</Text>中 亦別<Text id = "S1_GO1CI3T3" name = "우하서_훈고1견해3인용3구절">唐傳</Text><Text id = "S1_GO1CI3T4" name = "우하서_훈고1견해3인용4구절">虞傳</Text><Text id = "S1_GO1CI3T5" name = "우하서_훈고1견해3인용5구절">夏傳</Text></Citation>
+						<Citation id = "S1_GO1CI4" name = "우하서_훈고1견해4인용"><Refer id = "S1_GO1CI4R" name = "우하서_훈고1견해4인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>唯<Text id = "S1_GO1CI4T1" name = "우하서_훈고1견해4인용1구절">五品不遜</Text>稱<Text id = "S1_GO1CI4T2" name = "우하서_훈고1견해4인용2구절">唐書</Text> 而其餘引堯典者二十二處 皆稱<Text id = "S1_GO1CI4T3" name = "우하서_훈고1견해4인용3구절">虞書</Text> <Text id = "S1_GO1CI4T4" name = "우하서_훈고1견해4인용4구절">楊州貢瑶琨</Text> 稱<Text id = "S1_GO1CI4T5" name = "우하서_훈고1견해4인용5구절">虞書</Text> 而其餘引禹貢者十二處 皆<Text id = "S1_GO1CI4T6" name = "우하서_훈고1견해4인용6구절">夏書</Text></Citation> 
+						<Citation id = "S1_GO1CI5" name = "우하서_훈고1견해5인용"><Refer id = "S1_GO1CI5R" name = "우하서_훈고1견해5인용출처"><Book id = "B005" korname = "춘추좌씨전" chiname = "春秋左氏傳">左傳</Book>引禹謨皐陶謨者五處 而皆曰<Text id = "S1_GO1CI6T" name = "우하서_훈고1견해5인용구절">夏書</Text></Refer></Citation>是堯舜禹 事相關故錯引也
+						<Citation id = "S1_GO1CI6" name = "우하서_훈고1견해6인용"><Refer id = "S1_GO1CI6R" name = "우하서_훈고1견해6인용출처"><Person id = "P007" korname = "왕충" chiname = "王充">王充</Person></Refer>曰 <Text id = "S1_G1O1CI6T" name = "우하서_훈고1견해6인용구절">唐虞夏殷周者 土地之名 堯以唐侯嗣位 舜從虞地 得達 禹由夏而起 湯因殷而興 武王因周而伐 皆本所興之地 重本不忘 故以爲號說商書者 謂之唐虞夏殷周者 功德之名 唐之爲言蕩蕩也 民無能名 虞者樂也 天下虞樂 夏者大也 承二帝 之業 殷者中也 道得中 周者至也 功德無不至 其立義美矣 而違其正實</Text></Citation>
+					</Opin>  
+					<Opin id = "S1_GO2" name = "우하서_훈고2견해">綽按
+						舊虞夏書等分題各篇之下 
+						<Citation id = "S1_GO2CI1" name = "우하서_훈고2견해1인용"><Refer id = "S1_G1O2CI1R" name = "우하서_훈고1견해2인용1출처"><Book id = "B006" korname = "서집전" chiname = "書集傳">蔡傳</Book></Refer></Citation>總題于上
+					</Opin>
+				</Glossary>
+				<Collation id = "S1_C" name = "우하서_교감">考異具上</Collation> 
+			</Commentary>
+			<Chapter id = "C01" name = "요전">堯典
+				<Commentary id = "C01C" name = "요전주석"> 
+					<Glossary id = "C01_G" name = "요전_훈고">
+						<Citation id = "C01_GCI1" name = "요전_훈고1인용"><Refer id = "S1_GCI1R" name = "요전_훈고1인용출처"><Person id = "P008" korname = "유희" chiname = "劉熙">劉熙</Person></Refer>曰<Text id = "S1_GCI1T" name = "요전_훈고1인용구절">九丘三王以前上古羲皇時書 今皆亡 唯堯典存</Text></Citation>
+					</Glossary>
+					<Collation id = "C01_C" name = "요전_교감">
+						<Citation id = "C01_CCI1" name = "요전_교감1인용"><Refer id = "C01_CCI1R" name = "요전_교감1인용출처"><Book id = "B007" korname = "대학" chiname = "大學">大學</Book></Refer>引此 堯作帝</Citation>
+					</Collation>			
+				</Commentary>
+				
+				<Line id = "C01L001" name = "요전1구" content = "曰若稽古">曰若稽古
+					<Commentary id = "C01L001C" name = "요전1구주석">
+						<Glossary id = "C01L001_G" name = "요전1구_훈고">
+							<Citation id = "C01L001_GCI1" name = "요전1구_훈고1인용"><Refer id = "C01L001_GCI1R" name = "요전1구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰 <Text id = "C01L001_GCI1T" name = "요전1구_훈고1인용구절">稽同也 古天也 言能順天而行之 與之同功</Text></Citation>
+							<Citation id = "C01L001_GCI2" name = "요전1구_훈고2인용"><Refer id = "C01L001_GCI2R" name = "요전1구_훈고2인용출처"><Book id = "B004" korname = "삼국지" chiname = "三國志">三國</Book><Part id = "Pa002" korname = "위지" chiname = "魏志">魏志</Part></Refer> 帝幸太學 問諸儒曰 <Text id = "C01L001_GCI2T" name = "요전1구_훈고2인용구절">曰稽古同天 言堯同於天也 <Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person> 曰堯順考古道而行之 何者爲是 博士便峻對曰 洪範言三人占 從二人之言 <Person id = "P009" korname = "가규" chiname = "賈逵">賈</Person><Person id = "P003" korname = "마융" chiname = "馬融">馬</Person>及<Person id = "P004" korname = "왕숙" chiname = "王肅">肅</Person>皆以爲順考古道 <Person id = "P004" korname = "왕숙" chiname = "王肅">肅</Person>義爲長 帝曰仲尼言 惟天爲大 惟堯則之 堯之大美 在乎則天 順考古道 非其至者也 今發篇開義 以明聖德 而舍其大 更稱其細 豈作者之義邪</Text></Citation>
+							<Citation id = "C01L001_GCI3" name = "요전1구_훈고3인용"><Refer id = "C01L001_GCI3R" name = "요전1구_훈고3인용출처"><Book id = "B008" korname = "문선" chiname = "文選">文選</Book><Part id = "Pa003" korname = "노령광전부" chiname = "魯靈光殿賦">王延壽賦</Part>粤若稽古注<Person id = "P010" korname = "장재" chiname = "張載">張載</Person></Refer>曰<Text id = "C01L001_GCI3T" name = "요전1구_훈고3인용구절">若順也 稽考也 言能順天地 考行古之道</Text></Citation>
+							<Citation id = "C01L001_GCI4" name = "요전1구_훈고4인용"><Refer id = "C01L001_GCI4R" name = "요전1구_훈고4인용출처"><Person id = "P011" korname = "환담" chiname = "桓譚">桓譚</Person><Book id = "B009" korname = "신론" chiname = "新論">新論</Book></Refer><Text id = "C01L001_GCI4T" name = "요전1구_훈고4인용구절">秦近君 能說堯典二字 十餘萬言 但說曰若稽古三萬言</Text></Citation>													
+						</Glossary>
+						<Collation id = "C01L001_C" name = "요전1구_교감">
+							<Citation id = "C01L001_CCI1" name = "요전1구_교감1인용"><Refer id = "C01L001_C1CI1R" name = "요전1구_교감1인용출처"><Part id = "Pa003" korname = "노령광전부" chiname = "魯靈光殿賦">王延壽賦</Part>注<Person id = "P012" korname = "이선" chiname = "李善">李善</Person></Refer>引此作曰<Text id = "C01L001_CCI1T" name = "요전1구_교감1인용구절">作粤若稽古</Text></Citation>	
+							<Citation id = "C01L001_CCI2" name = "요전1구_교감2인용"><Refer id = "C01L001_C1CI2R" name = "요전1구_교감2인용출처"><Book id = "B010" korname = "귀곡자" chiname = "鬼谷子">鬼谷子</Book></Refer><Text id = "C01L001_C1CI2R" name = "요전1구_교감2인용구절">粵若稽古</Text>聖人亦作粵</Citation>
+							<Citation id = "C01L001_CCI3" name = "요전1구_교감3인용"><Refer id = "C01L001_CCI3R" name = "요전1구_교감3인용출처"><Epigraph id = "Ep001" korname = "당벽락비" chiname = "唐碧落碑">唐碧落碑</Epigraph></Refer>作<Text id = "C01L001_CCI3T" name = "요전1구_교감3인용구절">粤若乩古</Text></Citation>乩古稽字 
+						</Collation>					
+					</Commentary>
+				</Line>
+				
+				<Line id = "C01L002" name = "요전2구" content = "帝堯">帝堯
+					<Commentary id = "C01L002C" name = "요전2구주석">
+						<Glossary id = "C01L002_G" name = "요전2구_훈고">
+							<Citation id = "C01L002_GCI1" name = "요전2구_훈고1인용"><Refer id = "C01L002_GCI1R" name = "요전2구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰 <Text id = "C01L002_GCI1T" name = "요전2구_훈고1인용구절">堯謚也 翼善傳聖曰堯</Text></Citation> 
+							<Citation id = "C01L002_GCI2" name = "요전2구_훈고2인용"><Refer id = "C01L002_GCI2R" name = "요전2구_훈고2인용출처"><Person id = "P002" korname = "공영달" chiname = "孔穎達">孔穎達</Person></Refer>曰 <Text id = "C01L002_GCI2T" name = "요전2구_훈고2인용구절"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭</Person>于下傳云 虞氏 舜名 則堯舜相配 旣舜爲名 則堯亦名也</Text></Citation> 
+							<Citation id = "C01L002_GCI3" name = "요전2구_훈고3인용"><Refer id = "C01L002_GCI1R" name = "요전2구_훈고3인용출처"><Person id = "P008" korname = "유희" chiname = "劉熙">劉熙</Person></Refer>曰 <Text id = "C01L002_GCI1T" name = "요전2구_훈고3인용구절">尊古堯堯然 故謂之堯也</Text></Citation>
+						</Glossary>
+					</Commentary>				
+				 </Line>
+				 
+				 <Line id = "C01L003" name = "요전3구" content = "曰放勳">曰放勳
+					<Commentary id = "C01L003C" name = "요전3구주석">
+						<Glossary id = "C01L003_G" name = "요전3구_훈고">
+							<Citation id = "C01L003_GCI1" name = "요전3구_훈고1인용"><Refer id = "C01L003_GCI1R" name = "요전3구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L003_GCI1T" name = "요전3구_훈고1인용구절">放勛堯名</Text></Citation>	 
+							<Citation id = "C01L003_GCI2" name = "요전3구_훈고2인용"><Refer id = "C01L003_GCI2R" name = "요전3구_훈고2인용출처"><Person id = "P013" korname = "조기" chiname = "趙歧">趙歧</Person><Book id = "B011" korname = "맹자주" chiname = "孟子注">孟子注</Book></Refer>同</Citation>	
+						</Glossary>
+						<Collation id = "C01L003_C" name = "요전3구_교감">
+							<Citation id = "C01L003_CCI1" name = "요전3구_교감1인용"><Refer id = "C01L003_CCI1R" name = "요전3구_교감1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>勳作勛</Citation>	
+							<Citation id = "C01L003_CCI2" name = "요전3구_교감2인용"><Refer id = "C01L003_CCI2R" name = "요전3구_교감2인용출처"><Book id = "B012" korname = "상서고령요" chiname = "尙書考靈耀">尙書考靈耀</Book></Refer>同</Citation>	 
+							<Citation id = "C01L003_CCI3" name = "요전3구_교감3인용"><Refer id = "C01L003_CCI3R" name = "요전3구_교감3인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L003_CCI3R" name = "요전3구_교감3인용구절">帝堯者 放勛</Text></Citation>
+							<Citation id = "C01L003_CCI4" name = "요전3구_교감4인용"><Refer id = "C01L003_CCI4R" name = "요전3구_교감4인용출처">注<Person id = "P014" korname = "장수절" chiname = "張守節">張守節</Person></Refer>曰 <Text id = "C01L003_CCI4T" name = "요전3구_교감4인용구절">放上代之功勛</Text></Citation>	
+						</Collation>
+					</Commentary>
+				</Line>
+				
+				 <Line id = "C01L004" name = "요전4구" content = "欽明文思安安">欽明文思安安
+					<Commentary id = "C01L004C" name = "요전4구주석">
+						<Glossary id = "C01L004_G" name = "요전4구_훈고">
+							<Citation id = "C01L004_GCI1" name = "요전4구_훈고1인용"><Refer id = "C01L004_GCI1R" name = "요전4구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰 <Text id = "C01L004_GCI1T" name = "요전4구_훈고1인용구절">威儀表備謂之欽 照臨四方謂之明 經緯天地謂之文 道德純備謂之思</Text></Citation> 
+							<Citation id = "C01L004_GCI2" name = "요전4구_훈고2인용"><Refer id = "C01L004_GCI2R" name = "요전4구_훈고2인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰 <Text id = "C01L004_GCI2T" name = "요전4구_훈고2인용구절">敬事節用謂之欽 慮深通敏謂之思 餘與馬同</Text></Citation> 
+							<Citation id = "C01L004_GCI3" name = "요전4구_훈고3인용"><Refer id = "C01L004_GCI3R" name = "요전4구_훈고3인용출처"><Person id = "P007" korname = "왕충" chiname = "王充">王充</Person></Refer>曰 <Text id = "C01L004_GCI3T" name = "요전4구_훈고3인용구절">欽明文思以下 誰所言也 曰篇家也 篇家誰也 <Person id = "P015" korname = "공자" chiname = "孔子">孔子</Person>也</Text></Citation> 
+							<Citation id = "C01L004_GCI4" name = "요전4구_훈고4인용"><Refer id = "C01L004_GCI4R" name = "요전4구_훈고4인용출처"><Book id = "B012" korname = "상서고령요" chiname = "尙書考靈耀">考靈耀</Book></Refer> <Text id = "C01L004_GCI4T" name = "요전4구_훈고4인용구절">放勛欽明文塞晏晏</Text></Citation> 
+							<Citation id = "C01L004_GCI5" name = "요전4구_훈고5인용"><Refer id = "C01L004_GCI5R" name = "요전4구_훈고5인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭</Person>彼注</Refer> <Text id = "C01L004_GCI5T" name = "요전4구_훈고5인용구절">寬容覆載謂之晏</Text></Citation> 
+							<Opin id = "C01L004_GO1" name = "요전4구_훈고1견해">綽按
+							<Citation id = "C01L004_GO1CI1" name = "요전4구_훈고1견해1인용"><Refer id = "C01L004_GO1CI1R" name = "요전4구_훈고1견해1인용출처"><Epigraph id = "Ep002" korname = "후한형방비" chiname = "後漢衡方碑">後漢衡方碑</Epigraph></Refer> <Text id = "C01L004_GO1CI1T" name = "요전4구_훈고1견해1인용구절">少以文塞 長以欽明</Text></Citation> 
+							<Citation id = "C01L004_GO1CI2" name = "요전4구_훈고1견해2인용"><Refer id = "C01L004_GO1CI2R" name = "요전4구_훈고1견해2인용출처"><Epigraph id = "Ep003" korname = "위수선비" chiname = "魏受禪碑">魏受禪碑</Epigraph></Refer> <Text id = "C01L004_GO1CI2T" name = "요전4구_훈고1견해2인용구절">欽明文塞</Text></Citation> 
+							<Citation id = "C01L004_GO1CI3" name = "요전4구_훈고1견해3인용"><Refer id = "C01L004_GO1CI3R" name = "요전4구_훈고1견해3인용출처"><Part id = "Pa005" korname = "풍연전" chiname = "馮衍傳">馮衍賦</Part></Refer> <Text id = "C01L004_GO1CI3T" name = "요전4구_훈고1견해3인용구절">思 唐虞之晏晏</Text></Citation> 
+							<Citation id = "C01L004_GO1CI4" name = "요전4구_훈고1견해4인용"><Refer id = "C01L004_GO1CI4R" name = "요전4구_훈고1견해4인용출처"><Part id = "Pa006" korname = "제오륜" chiname = "第五倫">第五倫</Part>疏</Refer><Text id = "C01L004_GO1CI4T" name = "요전4구_훈고1견해4인용구절">陛下體晏晏之姿</Text></Citation> 
+							<Citation id = "C01L004_GO1CI5" name = "요전4구_훈고1견해5인용"><Refer id = "C01L004_GO1CI5R" name = "요전4구_훈고1견해5인용출처"><Part id = "Pa007" korname = "곽진열전" chiname = "郭陳列傳">陳寵</Part>疏</Refer> <Text id = "C01L004_GO1CI5T" name = "요전4구_훈고1견해5인용구절">弘崇晏晏</Text></Citation>義皆出此 
+							<Citation id = "C01L004_GO1CI6" name = "요전4구_훈고1견해6인용"><Refer id = "C01L004_GO1CI6R" name = "요전4구_훈고1견해6인용출처"><Book id = "B013" korname = "이아" chiname = "爾雅">爾雅</Book></Refer> <Text id = "C01L004_GO1CI6T" name = "요전4구_훈고1견해6인용구절">晏晏和也</Text></Citation>
+							</Opin>
+						</Glossary>
+						<Collation id = "C01L004_C" name = "요전4구_교감">考異具上</Collation>
+					</Commentary>
+				</Line>
+				
+				 <Line id = "C01L005" name = "요전5구" content = "允恭克讓">允恭克讓
+					<Commentary id = "C01L005C" name = "요전5구주석">
+						<Glossary id = "C01L005_G" name = "요전5구_훈고">
+							<Citation id = "C01L005_GCI1" name = "요전5구_훈고1인용"><Refer id = "C01L005_GCI1R" name = "요전5구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰 <Text id = "C01L005_GCI1T" name = "요전5구_훈고1인용구절">不懈於位曰恭 推賢尙善曰讓</Text></Citation> 
+							<Citation id = "C01L005_GCI2" name = "요전5구_훈고2인용"><Refer id = "C01L005_GCI2R" name = "요전5구_훈고2인용출처"><Book id = "B014" korname = "공자가어" chiname = "孔子家語">家語</Book></Refer><Person id = "P015" korname = "공자" chiname = "孔子">孔子</Person>曰 <Text id = "C01L005_GCI2T" name = "요전5구_훈고2인용구절">㫺堯居天子之位 猶允恭以持之 克讓以接下 是以千歲而益盛 迄今而益彰</Text></Citation> 
+						</Glossary>
+						<Collation id = "C01L005_C" name = "요전5구_교감">
+							<Citation id = "C01L005_CCI1" name = "요전5구_교감1인용"><Refer id = "C01L005_CCI1R" name = "요전5구_교감1인용출처"><Book id = "B015" korname = "한서" chiname = "漢書">漢</Book><Part id = "Pa008" korname = "예문지" chiname = "藝文志">藝文志</Part></Refer><Text id = "C01L005_CCI1T" name = "요전5구_교감1인용구절">合於堯之克攘</Text></Citation> 
+							<Citation id = "C01L005_CCI2" name = "요전5구_교감2인용"><Refer id = "C01L005_CCI2R" name = "요전5구_교감2인용출처">注<Person id = "P016" korname = "안사고" chiname = "顔師古">師古</Person></Refer>曰<Text id = "C01L005_CCI2T" name = "요전5구_교감2인용구절">攘古讓字</Text></Citation>
+						</Collation>
+					</Commentary>
+				</Line>
+				
+				<Line id = "C01L006" name = "요전6구" content = "光被四表 格于上下">光被四表 格于上下
+					<Commentary id = "C01L006C" name = "요전6구주석">
+						 <Glossary id = "C01L006_G" name = "요전6구_훈고">
+							<Citation id = "C01L006_GCI1" name = "요전6구_훈고1인용"><Refer id = "C01L006_GCI1R" name = "요전6구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L006_GCI1T" name = "요전6구_훈고1인용구절">言堯德光耀 及四海之外 至於天地 所謂大人與天地合其德 與日月齊其明</Text></Citation>
+						</Glossary>
+		
+						<Collation id = "C01L006_C" name = "요전6구_교감">
+							<Citation id = "C01L006_CCI1" name = "요전6구_교감1인용"><Refer id = "C01L006_CCI1R" name = "요전6구_교감1인용출처"><Epigraph id = "Ep004" korname = "한면죽강언비" chiname = "漢緜竹江堰碑">漢緜竹江堰碑</Epigraph></Refer><Text id = "C01L006_CCI1T" name = "요전6구_교감1인용구절">廣被四表</Text></Citation> 
+							<Citation id = "C01L006_CCI2" name = "요전6구_교감2인용"><Refer id = "C01L006_CCI2R" name = "요전6구_교감2인용출처"><Epigraph id = "Ep005" korname = "당부비" chiname = "唐扶碑">唐扶碑</Epigraph></Refer><Text id = "C01L006_CCI2T" name = "요전6구_교감2인용구절">追惟堯德廣被之恩</Text></Citation> 
+							<Citation id = "C01L006_CCI3" name = "요전6구_교감3인용"><Refer id = "C01L006_CCI3R" name = "요전6구_교감3인용출처"><Epigraph id = "Ep006" korname = "성양영대비" chiname = "成陽靈臺碑">成陽靈臺碑</Epigraph></Refer><Text id = "C01L006_CCI3T" name = "요전6구_교감3인용구절">廣被之恩 保荒外兮</Text></Citation> 並以光爲廣也 
+							<Citation id = "C01L006_CCI4" name = "요전6구_교감4인용"><Refer id = "C01L006_CCI4R" name = "요전6구_교감4인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>引此 格作假 云<Text id = "C01L006_CCI4T" name = "요전6구_교감4인용구절">至也</Text></Citation> 
+							<Citation id = "C01L006_CCI5" name = "요전6구_교감5인용"><Refer id = "C01L006_CCI5R" name = "요전6구_교감5인용출처"><Person id = "P017" korname = "왕일" chiname = "王逸">王逸</Person><Book id = "B016" korname = "초사주" chiname = "楚辭注">楚辭注</Book></Refer>引此同</Citation> 
+						</Collation>
+					</Commentary>
+				</Line>
+				
+				<Line id = "C01L007" name = "요전7구" content = "克明俊德">克明俊德
+					<Commentary id = "C01L007C" name = "요전7구주석">
+						<Glossary id = "C01L007_G" name = "요전7구_훈고">
+							<Citation id = "C01L007_GCI1R" name = "요전7구_훈고1인용"><Refer id = "C01L007_GCI1R" name = "요전7구_훈고1인용출처"><Book id = "B007" korname = "대학" chiname = "大學">大學</Book>注<Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L007_GCI1T" name = "요전7구_훈고1인용구절">峻大也</Text></Citation> 
+						</Glossary>
+						<Collation id = "C01L007_C" name = "요전7구_교감">
+							<Citation id = "C01L007_CCI1" name = "요전7구_교감1인용"><Refer id = "C01L007_CCI1R" name = "요전7구_교감1인용출처"><Book id = "B007" korname = "대학" chiname = "大學">大學</Book></Refer>引此<Text id = "C01L007_CCI1T" name = "요전7구_교감1인용구절">俊作峻</Text></Citation> 
+							<Citation id = "C01L007_CCI2" name = "요전7구_교감2인용"><Refer id = "C01L007_CCI2R" name = "요전7구_교감2인용출처"><Part id = "Pa009" korname = "태재" chiname = "大宰">大宰職</Part>疏</Refer>引此同</Citation> 
+							<Citation id = "C01L007_CCI3" name = "요전7구_교감3인용"><Refer id = "C01L007_CCI3R" name = "요전7구_교감3인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer>俊作馴</Citation> 
+							<Citation id = "C01L007_CCI4" name = "요전7구_교감4인용"><Refer id = "C01L007_CCI4R" name = "요전7구_교감4인용출처"> <Person id = "P018" korname = "서광" chiname = "徐廣">徐廣</Person></Refer>曰 <Text id = "C01L007_CCI4T" name = "요전7구_교감4인용구절">馴古訓字 順也</Text></Citation>  
+						</Collation>
+					</Commentary>
+				</Line>
+				
+				<Line id = "C01L008" name = "요전8구" content = "以親九族">以親九族
+					<Commentary id = "C01L008C" name = "요전8구주석">
+						<Glossary id = "C01L008_G" name = "요전8구_훈고">
+							<Citation id = "C01L008_GCI1" name = "요전8구_훈고1인용"><Refer id = "C01L008_GCI1R" name = "요전8구_훈고1인용출처"> <Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L008_GCI1T" name = "요전8구_훈고1인용구절">九族上自高祖 下至玄孫 凡九族 <Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person>同</Text></Citation> 
+							<Citation id = "C01L008_GCI2" name = "요전8구_훈고2인용"><Refer id = "C01L008_GCI2R" name = "요전8구_훈고2인용출처"><Person id = "P006" korname = "허신" chiname = "許愼">許愼</Person><Book id = "B017" korname = "오경이의" chiname = "五經異義">五經異義</Book></Refer> <Text id = "C01L008_GCI2T" name = "요전8구_훈고2인용구절"><Person id="P019" korname="하후승" chiname="夏侯勝">夏侯</Person><Person id="P020" korname="구양생" chiname="歐陽生">歐陽</Person>說 九族乃異姓有親屬者 父族四  五屬之內爲一族 父女昆弟適人者與其子爲一族 己女昆弟適人者與其子爲一族 己之子適人者與 其子爲一族 母族三 母之父母爲一族 母之母姓爲一族 母女昆弟適人者爲一族 妻族二 妻之父姓爲 一族 妻之母姓爲一族 古尙書說 九族者 上從高祖 下至玄孫 凡九 皆爲同姓 <Person id = "P006" korname = "허신" chiname = "許愼">許愼</Person>謹按 禮爲妻父母有 服明在九族中 不得但施於同姓</Text></Citation> 
+							<Citation id = "C01L008_GCI3" name = "요전8구_훈고3인용"><Refer id = "C01L008_GCI3R" name = "요전8구_훈고3인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>駁云<Text>異姓之服 不過緦麻 言不廢昏又昏禮請期云 惟是三族之 不虞 恐其廢昏明非外族也</Text></Citation> 			
+							<Margin><Citation id = "C01L008_GCI4" name = "요전8구_훈고4인용"><Refer id = "C01L008_GCI4R" name = "요전8구_훈고4인용출처"><Book id = "B018" korname = "백호통" chiname = "白虎通">白虎通</Book></Refer><Text id = "C01L008_GCI4T" name = "요전8구_훈고4인용구절">族者湊也聚也 謂恩愛相流湊也 所以九何九之爲言究也 親踈恩愛究竟 謂父族四母族三妻族二父族四者謂之九族也</Text></Citation></Margin>
+						</Glossary>	
+					</Commentary>
+				</Line>		
+				
+				<Line id = "C01L009" name = "요전9구" content = "九族旣睦 平章百姓">九族旣睦 平章百姓
+					<Commentary id = "C01L009C" name = "요전9구주석">
+						<Glossary id = "C01L009_G" name = "요전9구_훈고">
+							<Citation id = "C01L009_GCI1" name = "요전9구_훈고1인용"><Refer id = "C01L009_GCI1R" name = "요전9구_훈고1인용출처"><Book id = "B019" korname = "정본" chiname = "鄭本">鄭本</Book></Refer> 平作辯云 <Text id = "C01L009_GCI1T" name = "요전9구_훈고1인용구절">別也 章明也 百姓羣臣之父子兄弟</Text></Citation> 
+							<Citation id = "C01L009_GCI2" name = "요전9구_훈고2인용"><Refer id = "C01L009_GCI2R" name = "요전9구_훈고2인용출처"> <Book id = "B018" korname = "백호통" chiname = "白虎通">白虎通</Book></Refer>引此云 <Text id = "C01L009_GCI2T" name = "요전9구_훈고2인용구절">姓所以有百何 以爲古者聖人 吹律定姓 以記其族 人含五常而生 身有五音 宮商角徵羽 轉而相雜 五五二十五 轉生四時故 百而異也</Text></Citation>  
+						</Glossary>
+						<Collation id = "C01L009_C" name = "요전9구_교감">		
+							<Citation id = "C01L009_CCI1" name = "요전9구_교감1인용"><Refer id = "C01L009_CCI1R" name = "요전9구_교감1인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer>平作便</Citation> 
+							<Citation id = "C01L009_CCI2" name = "요전9구_교감2인용"><Refer id = "C01L009_CCI2R" name = "요전9구_교감2인용출처">注<Person id = "P018" korname = "서광" chiname = "徐廣">徐廣</Person></Refer>曰 <Text id = "C01L009_CCI2T" name = "요전9구_교감2인용구절">謂平爲便也</Text></Citation> 
+							<NewOldText id = "NO001"><Citation id = "C01L009_CCI3" name = "요전9구_교감3인용"><Refer id = "C01L009_CCI3R" name = "요전9구_교감3인용출처"><Book id = "B020" korname = "사기색은" chiname = "史記索隱">索隱</Book></Refer>曰 <Text id = "C01L009_CCI3T" name = "요전9구_교감3인용구절"><Book id = "B053" korname = "고문상서" chiname = "古文尙書">古文尙書</Book>作平 <Book id = "B054" korname = "금문상서" chiname = "今文尙書">今文</Book>作便 古平字亦作便 便則訓辯 遂為辯章</Text></Citation>  
+							<Citation id = "C01L009_CCI4" name = "요전9구_교감4인용"><Refer id = "C01L009_CCI4R" name = "요전9구_교감4인용출처">
+							
+							<Citation>
+								<Refer>
+									<Edit><Book id = "B021" korname = "후한서" chiname = "後漢書">後漢</Book><Part id = "Pa010" korname = "유조순우강유주조열전" chiname = "劉趙淳于江劉周趙列傳">劉凱傳</Part></Edit> 
+								</Refer>
+							</Citation>				
+							
+							<Part id = "Pa011" korname = "반고전" chiname = "班固傳">班固傳</Part></Refer>並引此作辯章</Citation> <Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person>雖傳<Book id = "B053" korname = "고문상서" chiname = "古文尙書">古文</Book> 而頗雜<Book id = "B054" korname = "금문상서" chiname = "今文尙書">今文</Book> 故亦作辯 <Margin>凱當作愷</Margin></NewOldText>
+						</Collation>	
+					</Commentary>
+				</Line>	
+				
+				<Line id = "C01L010" name = "요전10구" content = "百姓昭明 協和萬邦">百姓昭明 協和萬邦
+					<Commentary id = "C01L010C" name = "요전10구주석">
+						<Glossary id = "C01L010_G" name = "요전10구_훈고">
+							<Citation id = "C01L010_GCI1" name = "요전10구_훈고1인용"><Refer id = "C01L010_GCI1R" name = "요전10구_훈고1인용출처"><Book id = "B017" korname = "오경이의" chiname = "五經異義">五經異義</Book></Refer><Text id = "C01L010_GCI1T" name = "요전10구_훈고1인용구절">古<Book id = "B006" korname = "춘추좌씨전" chiname ="春秋左氏傳">左氏</Book>說禹會諸矦於塗山 執玉帛者萬國 唐虞之地萬里 容百里地萬國 其矦伯七十里 子男五十里 餘爲天子閒田<Person id = "P006" korname = "허신" chiname = "許愼">許愼</Person>謹按 尚書云 協和萬邦 從<Book id = "B006" korname = "춘추좌씨전" chiname ="春秋左氏傳">左氏</Book>說</Text></Citation>
+							<Citation id = "C01L010_GCI2" name = "요전10구_훈고2인용"><Refer id = "C01L010_GCI2R" name = "요전10구_훈고2인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>駁曰 <Text id = "C01L010_GCI2T" name = "요전10구_훈고2인용구절">萬國者謂唐虞之制也 周公制禮 凖王制千七百七十三國 </Text></Citation>
+							<Citation id = "C01L010_GCI3" name = "요전10구_훈고3인용"><Refer id = "C01L010_GCI3R" name = "요전10구_훈고3인용출처"><Person id = "P007" korname = "왕충" chiname = "王充">王充</Person></Refer>曰<Text id = "C01L010_GCI3T" name = "요전10구_훈고3인용구절">協和萬國 是美堯德 致大平之化 化諸夏及夷狄也 言協和方外可也 言萬國增之也 夫唐之與周 俱治五千里内 周時諸矦 千七百九十三國 荒服戎服要服 及四海之外 不粒食之民 若穿胷儋耳焦僥跋踵之輩 並合其數不能三千 天之所覆 地之所載 盡於三千之中 書云萬國 襃 增過實 以美堯也</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L010_C" name = "요전10구_교감">
+							<Citation id = "C01L010_CCI1" name = "요전10구_교감1인용"><Refer id = "C01L010_CCI1R" name = "요전10구_교감1인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part>及<Part id = "Pa012" korname = "지리지" chiname = "地理志">地理志</Part></Refer>引此邦並作國</Citation>
+						</Collation>
+					</Commentary>
+				</Line>
+				
+				<Line id = "C01L011" name = "요전11구" content = "黎民 於變時雍">黎民 於變時雍	
+					<Commentary id = "C01L011C" name = "요전11구주석">
+						<Glossary id = "C01L011_G" name = "요전11구_훈고">	
+							<Citation id = "C01L011_GCI1" name = "요전11구_훈고1인용"><Refer id = "C01L011_GCI1R" name = "요전11구_훈고1인용출처"><Book id = "B015" korname = "한서" chiname = "漢書">漢</Book><Part id = "Pa013" korname = "성제본기" chiname = "成帝本紀">成帝本紀</Part>注<Person id = "P021" korname = "응소" chiname = "應劭">應劭</Person></Refer>曰<Text id = "C01L011_GCI1T" name = "요전11구_훈고1인용구절">黎衆也 時是也 雍和也 言衆民 於是變化 用是大和也</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L011_C" name = "요전11구_교감">
+							<Citation id = "C01L011_CCI1" name = "요전11구_교감1인용"><Refer id = "C01L011_CCI1R" name = "요전11구_교감1인용출처"><Epigraph id = "Ep007" korname = "한번의수화악비" chiname = "漢樊毅修華嶽碑">漢樊毅修華嶽碑</Epigraph></Refer><Text id = "C01L011_CCI1T" name = "요전11구_교감1인용구절">犂民時雝</Text>黎作犂 雍作雝</Citation> 
+							<Citation id = "C01L011_CCI2" name = "요전11구_교감2인용">又<Refer id = "C01L011_CCI2R" name = "요전11구_교감2인용출처"><Book id = "B015" korname = "한서" chiname = "漢書">漢書</Book><Part id = "Pa014" korname = "공신표" chiname = "功臣表">功臣表</Part>注<Person id = "P016" korname = "안사고" chiname = "顔師古">師古</Person></Refer>引此民作萌</Citation> 
+							<Citation id = "C01L011_CCI3" name = "요전11구_교감3인용"><Refer id = "C01L011_CCI3R" name = "요전11구_교감3인용출처"><Part id = "Pa010" korname = "성제본기" chiname = "成帝本紀">成帝本紀</Part>引此變作蕃<Person id = "P016" korname = "안사고" chiname = "顔師古">師古</Person></Refer>曰<Text id = "C01L011_CCI3T" name = "요전11구_교감3인용구절">今尙書作變 此紀作蕃 兩說並通</Text></Citation> 
+							<Citation id = "C01L011_CCI4" name = "요전11구_교감4인용"><Refer id = "C01L011_CCI4R" name = "요전11구_교감4인용출처"><Epigraph id = "Ep008" korname = "한공주비" chiname = "漢孔宙碑">漢孔宙碑</Epigraph></Refer>變作卞</Citation>
+						</Collation>
+					</Commentary>
+				</Line>
+				
+				<Line id = "C01L012" name = "요전12구" content = "乃命羲和">乃命羲和	
+					<Commentary id = "C01L012C" name = "요전12구주석">				
+						<Glossary id = "C01L012_G" name = "요전12구_훈고">
+							<Citation id = "C01L012_GCI1" name = "요전12구_훈고1인용"><Refer id = "C01L012_GCI1R" name = "요전12구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L012_GCI1T" name = "요전12구_훈고1인용구절">羲氏掌天官 和氏掌地官 四子掌四時 <Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person>曰 高辛之世 命重爲南正 司天 犁爲火正 司地 堯育重犁之後 羲氏和氏之子賢者 使掌舊職</Text></Citation> 
+							<Citation id = "C01L012_GCI2" name = "요전12구_훈고2인용"><Refer id = "C01L012_GCI2R" name = "요전12구_훈고2인용출처"><Part id = "Pa010" korname = "성제본기" chiname = "成帝本紀">成帝本紀</Part></Refer><Text id = "C01L012_GCI2T" name = "요전12구_훈고2인용구절">堯立羲和之官 命以四時之事 令不失其序</Text></Citation>
+							<Citation id = "C01L012_GCI3" name = "요전12구_훈고3인용"><Refer id = "C01L012_GCI3R" name = "요전12구_훈고3인용출처">注<Person id = "P021" korname = "응소" chiname = "應劭">應劭</Person></Refer>曰<Text id = "C01L012_GCI3T" name = "요전12구_훈고3인용구절">命羲氏和氏 世掌天地之官</Text></Citation> 
+							<Citation id = "C01L012_GCI4" name = "요전12구_훈고4인용"><Refer id = "C01L012_GCI4R" name = "요전12구_훈고4인용출처"><Part id = "Pa015" korname = "율력지" chiname = "律歷志">律歷志</Part></Refer> <Text id = "C01L012_GCI4T" name = "요전12구_훈고4인용구절">傳述顓頊 命南正重司 天火正黎司地 其後 三苗亂德 二官咸廢 而□□乖次 孟陬殄滅 攝提失方 堯復育重黎之後 使□其業 故書曰廼命羲和 至衆功皆美</Text></Citation> 
+						</Glossary>
+						<Collation id = "C01L012_C" name = "요전12구_교감">
+							<Citation id = "C01L012_CCI1" name = "요전12구_교감1인용"><Refer id = "C01L012_CCI1R" name = "요전12구_교감1인용출처"><Part id = "Pa015" korname = "율력지" chiname = "律歷志">律歷志</Part></Refer>乃作便</Citation>
+						</Collation>
+					</Commentary>					
+				</Line>	
+				
+				<Line id = "C01L013" name = "요전13구" content = "欽若昊天">欽若昊天
+					<Glossary id = "C01L013_G" name = "요전13구_훈고">
+						<Citation id = "C01L013_GCI1" name = "요전13구_훈고1인용"><Refer id = "C01L013_GCI1R" name = "요전13구_훈고1인용출처"><Book id = "B017" korname = "오경이의" chiname = "五經異義">五經異義</Book>  </Refer><Text id = "C01L013_GCI1T" name = "요전13구_훈고1인용구절">尙書<Person id="P020" korname="구양생" chiname="歐陽生">歐陽</Person>說 春曰昊天 古尙書說 元氣廣大則稱昊天<Person id = "P006" korname = "허신" chiname = "許愼">許愼</Person>謹按 尙書堯命羲和 欽若昊天總勑四時 知昊天不獨春</Text></Citation> 
+					</Glossary>
+				</Line>
+
+				<Line id = "C01L014" name = "요전14구" content = "歷象日月星辰">歷象日月星辰
+					<Commentary id = "C01L014C" name = "요전14구주석">                
+						<Glossary id = "C01L014_G" name = "요전14구_훈고">
+							<Citation id = "C01L014_GCI1" name = "요전14구_훈고1인용"><Refer id = "C01L014_GCI1R" name = "요전14구_훈고1인용출처"><Book id = "B005" korname = "상서대전" chiname = "尙書大傳">尙書大傳</Book></Refer><Text id = "C01L014_GCI1T" name = "요전14구_훈고1인용구절">歷者聖人所以揆天行而紀萬國也</Text></Citation>
+							<Citation id = "C01L014_GCI2" name = "요전14구_훈고2인용"><Refer id = "C01L014_GCI2R" name = "요전14구_훈고2인용출처"><Book id = "B015" korname = "한서" chiname = "漢書">漢書</Book><Part id = "Pa016" korname = "휴양하후경익이전" chiname = "眭兩夏侯京翼李傳">李尋傳</Part>       </Refer><Text id = "C01L014_GCI2T" name = "요전14구_훈고2인용구절">尋曰歷象日月星辰 此言觀日月消息 候星辰行伍</Text></Citation>
+							<Citation id = "C01L014_GCI3" name = "요전14구_훈고3인용"><Refer id = "C01L014_GCI3R" name = "요전14구_훈고3인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L014_GCI3T" name = "요전14구_훈고3인용구절">數法日月星辰</Text>    </Citation>
+							<Citation id = "C01L014_GCI4" name = "요전14구_훈고4인용"><Refer id = "C01L014_GCI4R" name = "요전14구_훈고4인용출처"><Book id = "B020" korname = "사기색은" chiname = "史記索隱">索隱</Book>   </Refer>曰<Text id = "C01L014_GCI4T" name = "요전14구_훈고4인용구절">數法是訓歷象二字 謂歷數之法</Text></Citation>
+						</Glossary>
+					</Commentary>                    
+				</Line>
+
+				<Line id = "C01L015" name = "요전15구" content = "敬授人時">敬授人時
+					<Commentary id = "C01L015C" name = "요전15구주석">
+						<Glossary id = "C01L015_G" name = "요전15구_훈고">
+							<Citation id = "C01L015_GCI1" name = "요전15구_훈고1인용"><Refer id = "C01L015_GCI1R" name = "요전15구_훈고1인용출처"><Book id = "B005" korname = "상서대전" chiname = "尙書大傳">尙書大傳</Book></Refer><Text id = "C01L015_GCI1T" name = "요전15구_훈고1인용구절">主春者 張昬中 可以種稷 主夏者 火昬中 可以種黍菽 主秋者 虛昬中 可 以種麥 主冬者 昴昬中 可以収斂也 天子知四星之中 知民緩急 故云敬授民時也</Text>
+							</Citation> 
+						</Glossary>
+						<Collation id = "C01L015_C" name = "요전15구_교감">
+							<Citation id = "C01L015_CCI1" name = "요전15구_교감1인용"><Refer id = "C01L015_CCI1R" name = "요전15구_교감1인용출처"><Book id = "B015" korname = "한서" chiname = "漢書">漢</Book> <Part id = "Pa008" korname = "예문지" chiname = "藝文志">藝文志</Part><Part id = "Pa015" korname = "율력지" chiname = "律歷志">律歷志</Part><Part id = "Pa017" korname = "식화지" chiname = "食貨志">食貨志</Part><Part id = "Pa018" korname = "백관공경표" chiname = "百官公卿表">百官表</Part>及<Book id = "B005" korname = "상서대전" chiname = "尙書大傳">書大傳</Book><Book id = "B022" korname = "설원" chiname = "說苑">說苑</Book><Book id = "B023" korname = "중론" chiname = "中論">中論</Book>並引此 人作民</Refer>
+							</Citation> 
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L016" name = "요전16구" content = "分命羲仲">分命羲仲
+					<Commentary id = "C01L016C" name = "요전16구주석">
+						<Glossary id = "C01L016_G" name = "요전16구_훈고">
+							<Citation id = "C01L016_GCI1" name = "요전16구_훈고1인용"><Refer id = "C01L016_GCI1R" name = "요전16구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L016_GCI1T" name = "요전16구_훈고1인용구절">仲叔亦羲和之子 堯旣分陰 陽四時 又命四子 爲之官 掌四時 者叔仲 則掌天地者 其曰伯乎 </Text></Citation>
+							<Citation id = "C01L016_GCI2" name = "요전16구_훈고2인용"><Refer id = "C01L016_GCI2R" name = "요전16구_훈고2인용출처"><Book id = "B015" korname = "한서" chiname = "漢書">漢</Book><Part id = "Pa018" korname = "백관공경표" chiname = "百官公卿表">百官表</Part></Refer><Text id = "C01L016_GCI2T" name = "요전16구_훈고2인용구절">唐虞之際 命羲和四子 順天文 授民時 </Text></Citation>
+							<Citation id = "C01L016_GCI3" name = "요전16구_훈고3인용"><Refer id = "C01L016_GCI3R" name = "요전16구_훈고3인용출처">注<Person id = "P021" korname = "응소" chiname = "應劭">應劭</Person></Refer>曰<Text>堯命四子 分掌四時之敎化也<Person id = "P022" korname = "장안" chiname = "張晏">張晏</Person>曰四子謂羲仲羲叔和仲和叔也</Text>
+							</Citation> 
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L017" name = "요전17구" content = "宅嵎夷">宅嵎夷
+					<Commentary id = "C01L017C" name = "요전17구주석">
+						<Glossary id = "C01L017_G" name = "요전17구_훈고">
+							<Citation id = "C01L017_GCI1" name = "요전17구_훈고1인용"><Refer id = "C01L017_GCI1R" name = "요전17구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L017_GCI1T" name = "요전17구_훈고1인용구절">嵎海隅也 夷萊夷也</Text></Citation> 
+							<Citation id = "C01L017_GCI2" name = "요전17구_훈고2인용"><Refer id = "C01L017_GCI2R" name = "요전17구_훈고2인용출처"><Part id = "Pa019" korname = "월령" chiname = "月令">月令</Part>注<Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L017_GCI2T" name = "요전17구_훈고2인용구절">田畯舎東郊 順時而居 以命其事 今尚書 分命羲仲宅嵎夷 <Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person>曰 皆居京師而統之 亦有時述職 說文堣夷在冀州陽谷 立春日月値之而出</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L017_C" name = "요전17구_교감">
+							<Citation id = "C01L017_CCI1" name = "요전17구_교감1인용"><Refer id = "C01L017_CCI1R" name = "요전17구_교감1인용출처"><Epigraph id = "Ep009" korname = "채옹석경" chiname = "蔡邕石經">蔡邕石經</Epigraph></Refer>宅作度</Citation> 
+							<Citation id = "C01L017_CCI2" name = "요전17구_교감2인용"><Refer id = "C01L017_CCI2R" name = "요전17구_교감2인용출처"><Book id = "B024" korname = "사기" chiname = "史記">史記</Book></Refer>嵎夷作郁夷</Citation> 
+							<Citation id = "C01L017_CCI3" name = "요전17구_교감3인용"><Refer id = "C01L017_CCI3R" name = "요전17구_교감3인용출처"><Book id = "B020" korname = "사기색은" chiname = "史記索隱">索隱</Book></Refer>曰<Text id = "C01L017_CCI3T" name = "요전17구_교감3인용구절">此史 廣記異聞 不必皆依尚書 盖郁夷亦地之别名也</Text></Citation> 
+							<Citation id = "C01L017_CCI4" name = "요전17구_교감4인용">又曰<Text id = "C01L017_CCI4T" name = "요전17구_교감4인용구절"><NewOldText id = "NO002"><Book id = "B054" korname = "금문상서" chiname = "今文尙書">今文</Book>及帝命驗 並作禺鐵</NewOldText></Text> 禹貢同</Citation> 
+							<Citation id = "C01L017_CCI5" name = "요전17구_교감5인용"><Refer id = "C01L017_CCI5R" name = "요전17구_교감5인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>作禺銕</Citation> 
+							<Opin id = "C01L017_CO1" name = "요전17구_교감1견해">綽按今
+								<Citation id = "C01L017_CO1CI1" name = "요전17구_교감1견해1인용"><Refer id = "C01L017_CO1CI1R" name = "요전17구_교감1견해1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文">說文</Book></Refer>引作堣夷云<Text id = "C01L017_CO1CI1T" name = "요전17구_교감1견해1인용구절">在冀州陽谷</Text></Citation> 
+								<Citation id = "C01L017_CO1CI2" name = "요전17구_교감1견해2인용">又曰<Text id = "C01L017_CO1CI2T" name = "요전17구_교감1견해2인용구절">嵎銕崵谷也</Text> 不作禺 亦不引此文</Citation>
+								<Citation id = "C01L017_CO1CI3" name = "요전17구_교감1견해3인용"><Refer id = "C01L017_CO1CI3R" name = "요전17구_교감1견해3인용출처"><Person id = "P044" korname = "육덕명" chiname = "陸德明">陸德明</Person></Refer>云 <Text id = "C01L017_CO1CI3T" name = "요전17구_교감1견해3인용구절"><Book id = "B012" korname = "상서고령요" chiname = "尙書考靈耀">考靈耀</Book>及<Book id = "B024" korname = "사기" chiname = "史記">史記</Book> 作禺銕 </Text></Citation>
+								<Citation id = "C01L017_CO1CI4" name = "요전17구_교감1견해4인용"><Refer id = "C01L017_CO1CI4R" name = "요전17구_교감1견해4인용출처"><Person id = "P002" korname = "공영달" chiname = "孔穎達">孔穎達</Person></Refer>曰 <Text id = "C01L017_CO1CI4T" name = "요전17구_교감1견해4인용구절"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭</Person>注作嵎銕</Text></Citation>
+							</Opin>
+
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L018" name = "요전18구" content = "曰暘谷">曰暘谷
+					<Commentary id = "C01L018C" name = "요전18구주석">
+						<Glossary id = "C01L018_G" name = "요전18구_훈고">
+							<Citation id = "C01L018_GCI1" name = "요전18구_훈고1인용"><Refer id = "C01L018_GCI1R" name = "요전18구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L018_GCI1T" name = "요전18구_훈고1인용구절">暘谷海隅夷之地名</Text></Citation> 
+							<Citation id = "C01L018_GCI2" name = "요전18구_훈고2인용"><Refer id = "C01L018_GCI2R" name = "요전18구_훈고2인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>引此云 <Text id = "C01L018_GCI2T" name = "요전18구_훈고2인용구절">暘日出也</Text></Citation> 
+							<Citation id = "C01L018_GCI3" name = "요전18구_훈고3인용">曰<Text id = "C01L018_GCI3T" name = "요전18구_훈고3인용구절">嵎山在遼西 一曰嵎銕崵谷也</Text></Citation> 							        <Citation id = "C01L018_GCI4" name = "요전18구_훈고4인용"><Refer id = "C01L018_GCI4R" name = "요전18구_훈고4인용출처"><Book id = "B025" korname = "사기" chiname = "史記">史記</Book>舊本</Refer> 作陽谷</Citation> 
+							<Citation id = "C01L018_GCI5" name = "요전18구_훈고5인용"><Refer id = "C01L018_GCI5R" name = "요전18구_훈고5인용출처"><Book id = "B025" korname = "회남자" chiname = "淮南子">淮南子</Book></Refer> <Text id = "C01L018_GCI5T" name = "요전18구_훈고5인용구절">日出陽谷 浴於咸池</Text></Citation>  
+						</Glossary>
+						<Collation id = "C01L018_C" name = "요전18구_교감">考異具上</Collation>
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L019" name = "요전19구" content = "寅賓出日">寅賓出日
+					<Commentary id = "C01L019C" name = "요전19구주석">
+						<Glossary id = "C01L019_G" name = "요전19구_훈고">
+							<Citation id = "C01L019_GCI1" name = "요전19구_훈고1인용"><Refer id = "C01L019_GCI1R" name = "요전19구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L019_GCI1T" name = "요전19구_훈고1인용구절">賓從也</Text></Citation>
+							<Citation id = "C01L019_GCI2" name = "요전19구_훈고2인용"><Refer id = "C01L019_GCI2R" name = "요전19구_훈고2인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L019_GCI2T" name = "요전19구_훈고2인용구절">寅賓出日 謂春分朝日也</Text></Citation>
+							<Citation id = "C01L019_GCI3" name = "요전19구_훈고3인용"><Refer id = "C01L019_GCI3R" name = "요전19구_훈고3인용출처"><Book id = "B005" korname = "상서대전" chiname = "尙書大傳">書大傳</Book></Refer><Text id = "C01L019_GCI3T" name = "요전19구_훈고3인용구절">即春 迎日于東郊 所以爲萬物先而尊事大也 迎日之辭曰 維某年某月上日 明光于上下 勤施于四方 㫄作 穆穆 維予一人某 敬拜迎日于郊</Text></Citation>
+							<Citation id = "C01L019_GCI4" name = "요전19구_훈고4인용"><Refer id = "C01L019_GCI4R" name = "요전19구_훈고4인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L019_GCI4T" name = "요전19구_훈고4인용구절">敬道日出</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L020" name = "요전20구" content = "平秩東作">平秩東作
+					<Commentary id = "C01L020C" name = "요전20구주석">
+						<Glossary id = "C01L020_G" name = "요전20구_훈고">
+							<Citation id = "C01L020_GCI1" name = "요전20구_훈고1인용"><Refer id = "C01L020_GCI1R" name = "요전20구_훈고1인용출처"><Book id = "B026" korname = "마본" chiname = "馬本">馬本</Book></Refer>平作苹云<Text id = "C01L020_GCI1T" name = "요전20구_훈고1인용구절">使也</Text></Citation>
+							<Citation id = "C01L020_GCI2" name = "요전20구_훈고2인용"><Refer id = "C01L020_GCI2R" name = "요전20구_훈고2인용출처"><Book id = "B019" korname = "정본" chiname = "鄭本">鄭本</Book></Refer>作辯云<Text id = "C01L020_GCI2T" name = "요전20구_훈고2인용구절">謂辯其序事</Text></Citation>
+							<Citation id = "C01L020_GCI3" name = "요전20구_훈고3인용"><Refer id = "C01L020_GCI3R" name = "요전20구_훈고3인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer> 作便程</Citation>
+							<Citation id = "C01L020_GCI4" name = "요전20구_훈고4인용"><Refer id = "C01L020_GCI4R" name = "요전20구_훈고4인용출처"><Book id = "B020" korname = "사기색은" chiname = "史記索隱">索隱</Book></Refer>曰 <Text id = "C01L020_GCI4T" name = "요전20구_훈고4인용구절">大傳作辯秩 是訓秩爲程也 便課其作程也</Text></Citation>
+							<Citation id = "C01L020_GCI5" name = "요전20구_훈고5인용"><Refer id = "C01L020_GCI5R" name = "요전20구_훈고5인용출처"><Person id = "P014" korname = "장수절" chiname = "張守節">張守節</Person></Refer>曰 <Text id = "C01L020_GCI5T" name = "요전20구_훈고5인용구절">使有程期</Text></Citation>
+							<Citation id = "C01L020_GCI6" name = "요전20구_훈고6인용"><Refer id = "C01L020_GCI6R" name = "요전20구_훈고6인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>引此 秩作豑云 <Text id = "C01L020_GCI6T" name = "요전20구_훈고6인용구절">豑爵之次第也</Text></Citation>
+							<Citation id = "C01L020_GCI7" name = "요전20구_훈고7인용"><Refer id = "C01L020_GCI7R" name = "요전20구_훈고7인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰 <Text id = "C01L020_GCI7T" name = "요전20구_훈고7인용구절">東作東生</Text></Citation>
+							<Citation id = "C01L020_GCI8" name = "요전20구_훈고8인용"><Refer id = "C01L020_GCI8R" name = "요전20구_훈고8인용출처"><Part id = "Pa013" korname = "성제본기" chiname = "成帝本紀">成帝本紀</Part>注<Person id = "P021" korname = "응소" chiname = "應劭">應劭</Person></Refer>曰 <Text id = "C01L020_GCI8T" name = "요전20구_훈고8인용구절">東作耕也</Text></Citation>
+							<Citation id = "C01L020_GCI9" name = "요전20구_훈고9인용"><Refer id = "C01L020_GCI9R" name = "요전20구_훈고9인용출처"><Book id = "B012" korname = "맹자주" chiname = "孟子注">孟子注</Book><Person id = "P013" korname = "조기" chiname = "趙岐">趙岐</Person></Refer>曰 <Text id = "C01L020_GCI9T" name = "요전20구_훈고9인용구절">平秩東作 謂治農事也</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L020_C" name = "요전20구_교감">
+							<Citation id = "C01L020_CCI1" name = "요전20구_교감1인용"><Refer id = "C01L020_CCI1R" name = "요전20구_교감1인용출처"><Book id = "B005" korname = "상서대전" chiname = "尙書大傳">大傳</Book></Refer>及<Refer id = "C01L020_CCI1R2" name = "요전20구_교감1인용2출처"><Part id = "Pa020" korname = "풍상씨" chiname = "馮相氏">馮相氏</Part></Refer><Refer id = "C01L020_CCI1R3" name = "요전20구_교감1인용3출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭</Person>注</Refer>及<Refer id = "C01L020_CCI1R4" name = "요전20구_교감1인용4출처"><Book id = "B027" korname = "풍속통" chiname = "風俗通">風俗通</Book></Refer> 平皆作辯</Citation>
+							<Citation id = "C01L020_CCI2" name = "요전20구_교감2인용"><Refer id = "C01L020_CCI2R" name = "요전20구_교감2인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬</Person></Refer>作苹</Citation> 
+							<Citation id = "C01L020_CCI3" name = "요전20구_교감3인용"><Refer id = "C01L020_CCI3R" name = "요전20구_교감3인용출처"><Book id = "B024" korname = "사기" chiname = "史記">史記</Book></Refer>作便程</Citation>
+							<Citation id = "C01L020_CCI4" name = "요전20구_교감4인용"><Refer id = "C01L020_CCI4R" name = "요전20구_교감4인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>作平豑</Citation><Mention>後皆放此</Mention>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L021" name = "요전21구" content = "日中星鳥">日中星鳥
+					<Commentary id = "C01L021C" name = "요전21구주석">
+						<Glossary id = "C01L021_G" name = "요전21구_훈고">
+							<Citation id = "C01L021_GCI1" name = "요전21구_훈고1인용"><Refer id = "C01L021_GCI1R" name = "요전21구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰 <Text id = "C01L021_GCI1T" name = "요전21구_훈고1인용구절">古制 刻漏晝夜百刻 晝長六十刻 夜短四十刻 晝短四十刻 夜長六十刻 晝中五十刻 夜亦五十刻 <Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person>同</Text></Citation>  
+							<Citation id = "C01L021_GCI2" name = "요전21구_훈고2인용"><Refer id = "C01L021_GCI2R" name = "요전21구_훈고2인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰 <Text id = "C01L021_GCI2T" name = "요전21구_훈고2인용구절">日中宵中者 日見之漏 與不見者齊 日永者 日見之漏 五十五刻 日不見之漏 四十五刻</Text></Citation> 
+							<Citation id = "C01L021_GCI3" name = "요전21구_훈고3인용"><Refer id = "C01L021_GCI3R" name = "요전21구_훈고3인용출처"><Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person></Refer>難云<Text> 知日見之漏 减晝漏五刻</Text></Citation>
+							<Citation id = "C01L021_GCI4" name = "요전21구_훈고4인용"><Refer id = "C01L021_GCI3R" name = "요전21구_훈고4인용출처">又<Person id = "P003" korname = "마융" chiname = "馬融">馬</Person><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭</Person></Refer>皆云 <Text id = "C01L021_GCI3T" name = "요전21구_훈고4인용구절">星鳥星火謂正 在南方 春分之昬七星中 仲夏之昬心星中 秋分之昬虛星中 冬至之昬昴星中<Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person>亦以星鳥之屬 爲昬中之星 以所宅 爲孟月 日中日永 爲仲月 星鳥星火 爲季月 以殷以正 皆總三時之月 謂仲爲中 言各正三月之中氣也</Text></Citation> 
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L022" name = "요전22구" content = "以殷仲春">以殷仲春
+					<Commentary id = "C01L022C" name = "요전22구주석">
+						<Glossary id = "C01L022_G" name = "요전22구_훈고">
+							<Citation id = "C01L022_GCI1" name = "요전22구_훈고1인용"><Refer id = "C01L022_GCI1R" name = "요전22구_훈고1인용출처"><Book id = "B013" korname = "이아" chiname = "爾雅">爾雅</Book></Refer><Text id = "C01L022_GCI1T" name = "요전22구_훈고1인용구절">殷中也</Text><Person id = "P023" korname = "곽박" chiname = "郭璞">郭璞</Person>引此</Citation>
+						</Glossary>
+						<Collation id = "C01L022_C" name = "요전22구_교감">
+							<Citation id = "C01L022_CCI1" name = "요전22구_교감1인용"><Refer id = "C01L022_CCI1R" name = "요전22구_교감1인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer> 仲作中 <Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person>同 下並同</Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L023" name = "요전23구" content = "厥民析 鳥獸孳尾">厥民析 鳥獸孳尾
+					<Commentary id = "C01L023C" name = "요전23구주석">
+						<Collation id = "C01L023_C" name = "요전23구_교감">
+							<Citation id = "C01L023_CCI1" name = "요전23구_교감1인용"><Refer id = "C01L023_CCI1R" name = "요전23구_교감1인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L023_CCI1T" name = "요전23구_교감1인용구절">鳥獸字微</Text></Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L024" name = "요전24구" content = "申命羲叔 宅南交">申命羲叔 宅南交
+					<Commentary id = "C01L024C" name = "요전24구주석">
+						<Glossary id = "C01L024_G" name = "요전24구_훈고">
+							<Citation id = "C01L024_GCI1" name = "요전24구_훈고1인용"><Refer id = "C01L024_GCI1R" name = "요전24구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L024_GCI1T" name = "요전24구_훈고1인용구절">夏不□明都 三字摩滅也</Text></Citation>
+							<NewOldText id = "NO003"><Citation id = "C01L024_GCI2" name = "요전24구_훈고2인용"><Refer id = "C01L024_GCI2R" name = "요전24구_훈고2인용출처"><Person id = "P002" korname = "공영달" chiname = "孔穎達">孔穎達</Person></Refer>曰<Text id = "C01L024_GCI2T" name = "요전24구_훈고2인용구절"><Person id = "P005" korname = "복생" chiname = "伏生">伏生</Person>所誦 與壁中舊本 並無此字 非摩滅也<Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person>以夏無明都 避敬致 是也</Text></Citation></NewOldText>
+							<Citation id = "C01L024_GCI3" name = "요전24구_훈고3인용"><Refer id = "C01L024_GCI3R" name = "요전24구_훈고3인용출처"><Book id = "B020" korname = "사기색은" chiname = "史記索隱"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part>注索隱</Book></Refer>曰<Text id = "C01L024_GCI3T" name = "요전24구_훈고3인용구절">南交 <Person id = "P024" korname = "공안국" chiname = "孔安國">孔安國</Person>以爲夏與秋交 然則冬與秋交 何無其交 南方地 自有交趾 是交趾不疑也</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L025" name = "요전25구" content = "平秩南訛">平秩南訛
+					<Commentary id = "C01L025C" name = "요전25구주석">
+						<Collation id = "C01L025_C" name = "요전25구_교감">
+							<Citation id = "C01L025_CCI1" name = "요전25구_교감1인용"><Refer id = "C01L025_CCI1R" name = "요전25구_교감1인용출처"><Book id = "B024" korname = "사기" chiname = "史記">史記</Book></Refer>及<Refer id = "C01L025_CCI1R2" name = "요전25구_교감1인용출처2"><Part id = "Pa017" korname = "풍상씨" chiname = "馮相氏">馮相氏</Part><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭</Person>注</Refer>訛皆作譌</Citation>
+							<Citation id = "C01L025_CCI2" name = "요전25구_교감2인용"><Refer id = "C01L025_CCI2R" name = "요전25구_교감2인용출처"><Book id = "B020" korname = "사기색은" chiname = "史記索隱">史記注 索隱</Book></Refer>曰<Person id = "P024" korname = "공안국" chiname = "孔安國">孔安國</Person>讀爲譌</Citation>
+							<Citation id = "C01L025_CCI3" name = "요전25구_교감3인용"><Refer id = "C01L025_CCI3R" name = "요전25구_교감3인용출처"><Part id = "Pa021" korname = "왕망전" chiname = "王莽傳">王莽傳</Part></Refer>作譌<Margin>作僞<Sub>王莽傳</Sub></Margin></Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L026" name = "요전26구" content = "敬致 日永星火">敬致 日永星火
+					<Commentary id = "C01L026C" name = "요전26구주석">
+						<Glossary id = "C01L026_G" name = "요전26구_훈고">
+							<Citation id = "C01L026_GCI1" name = "요전26구_훈고1인용"><Refer id = "C01L026_GCI1R" name = "요전26구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L026_GCI1T" name = "요전26구_훈고1인용구절">長晝漏六十刻</Text></Citation>
+							<Citation id = "C01L026_GCI2" name = "요전26구_훈고2인용"><Refer id = "C01L026_GCI2R" name = "요전26구_훈고2인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L026_GCI2T" name = "요전26구_훈고2인용구절">五十五刻</Text></Citation>
+							<Citation id = "C01L026_GCI3" name = "요전26구_훈고3인용"><Refer id = "C01L026_GCI3R" name = "요전26구_훈고3인용출처"><Book id = "B028" korname = "정지" chiname = "鄭志">鄭志<Part id = "Pa019" korname = "답손현" chiname = "答孫顯">答孫顯</Part></Book></Refer>曰<Text id = "C01L026_GCI3T" name = "요전26구_훈고3인용구절">日永 星火 此謂大火也 東方之次 □星大火析木 三者大火爲中 故尚書舉中以言焉 每三十度有奇 非特一 㝛也</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L027" name = "요전27구" content = "以正仲夏 厥民因鳥獸希革 分命和仲 宅西">以正仲夏 厥民因鳥獸希革 分命和仲 宅西
+					<Commentary id = "C01L027C" name = "요전27구주석">
+						<Glossary id = "C01L027_G" name = "요전27구_훈고">
+							<Citation id = "C01L027_GCI1" name = "요전27구_훈고1인용"><Refer id = "C01L027_GCI1R" name = "요전27구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L027_GCI1T" name = "요전27구_훈고1인용구절">西者隴西之西 今人謂之兌山</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L027_C" name = "요전27구_교감">
+							<Citation id = "C01L027_CCI1" name = "요전27구_교감1인용"><Refer id = "C01L027_CCI1R" name = "요전27구_교감1인용출처"><Part id = "Pa020" korname = "천관봉인" chiname = "天官縫人">天官縫人</Part>注 <Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>引此 宅作度</Citation>
+							<Citation id = "C01L027_CCI2" name = "요전27구_교감2인용"><Refer id = "C01L027_CCI2R" name = "요전27구_교감2인용출처"><Person id = "P025" korname = "가공언" chiname = "賈公彦">賈公彦</Person></Refer>曰<Text id = "C01L027_CCI2T" name = "요전27구_교감2인용구절">度亦居也</Text></Citation>
+							<Citation id = "C01L027_CCI3" name = "요전27구_교감3인용"><Refer id = "C01L027_CCI3R" name = "요전27구_교감3인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L027_CCI3T" name = "요전27구_교감3인용구절">宅西土</Text></Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L028" name = "요전28구" content = "曰昧谷">曰昧谷
+					<Commentary id = "C01L028C" name = "요전28구주석">
+						<Glossary id = "C01L028_G" name = "요전28구_훈고">
+							<Citation id = "C01L028_GCI1" name = "요전28구_훈고1인용"><Refer id = "C01L028_GCI1R" name = "요전28구_훈고1인용출처"><Part id = "Pa022" korname = "천관봉인" chiname = "天官縫人">縫人</Part>注<Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L028_GCI1T" name = "요전28구_훈고1인용구절">桺之言聚 諸飾之所聚 書曰分命和仲度西曰桺穀</Text></Citation>
+							<Citation id = "C01L028_GCI2" name = "요전28구_훈고2인용"><Refer id = "C01L028_GCI2R" name = "요전28구_훈고2인용출처"><Person id = "P025" korname = "가공언" chiname = "賈公彦">賈公彦</Person></Refer>曰<Text id = "C01L028_GCI2T" name = "요전28구_훈고2인용구절"><NewOldText id = "NO004">書是濟南<Person id = "P005" korname = "복생" chiname = "伏生">伏生</Person>書 今尙書云 宅西曰昧谷 度亦居也 桺者諸色所聚 日將没 其色赤 兼有餘色 故云桺穀</NewOldText></Text></Citation>
+							<Citation id = "C01L028_GCI3" name = "요전28구_훈고3인용"><Refer id = "C01L028_GCI3R" name = "요전28구_훈고3인용출처"><Book id = "B005" korname = "상서대전" chiname = "尚書大傳">尚書大傳</Book></Refer><Text id = "C01L028_GCI3T" name = "요전28구_훈고3인용구절">秋祀桺穀</Text></Citation>
+							<Citation id = "C01L028_GCI4" name = "요전28구_훈고4인용">彼注<Refer id = "C01L028_GCI4R" name = "요전28구_훈고4인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L028_GCI4T" name = "요전28구_훈고4인용구절">祭桺穀之氣于蕐山 桺聚也 齊人語</Text></Citation>
+							<Citation id = "C01L028_GCI5" name = "요전28구_훈고5인용"><Refer id = "C01L028_GCI5R" name = "요전28구_훈고5인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part>注<Person id = "P018" korname = "서광" chiname = "徐廣">徐廣</Person></Refer>曰<Text id = "C01L028_GCI5T" name = "요전28구_훈고5인용구절">昧谷一作桺谷</Text></Citation>
+							<Citation id = "C01L028_GCI6" name = "요전28구_훈고6인용"><Refer id = "C01L028_GCI6R" name = "요전28구_훈고6인용출처"><Book id = "B004" korname = "삼국지" chiname = "三國志">三國志</Book><Part id = "Pa023" korname = "오지" chiname = "吳志">吳志</Part>注虞翻</Refer>曰<Text id = "C01L028_GCI6T" name = "요전28구_훈고6인용구절"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person>注 尚書違失事因 古大篆丣 酉古讀當爲桺 古桺丣同字 而<Person id = "P001" korname = "정현" chiname = "鄭玄">鄭</Person>注以爲昧 誠可恠也</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L028_C" name = "요전28구_교감">
+							<Citation id = "C01L028_CCI1" name = "요전28구_교감1인용"><Refer id = "C01L028_CCI1R" name = "요전28구_교감1인용출처"><Book id = "B019" korname = "정본" chiname = "鄭本">鄭本</Book></Refer> 亦作昧谷</Citation>
+							<Citation id = "C01L028_CCI2" name = "요전28구_교감2인용"><Refer id = "C01L028_CCI2R" name = "요전28구_교감2인용출처"><Book id = "B029" korname = "주례" chiname = "周禮">周禮</Book></Refer>注<NewOldText id = "NO005">作桺穀 引<Book id = "B054" korname = "금문상서" chiname = "今文尙書">今文</Book>也</NewOldText></Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L029" name = "요전29구" content = "寅餞納日 平秩西成">寅餞納日 平秩西成
+					<Commentary id = "C01L029C" name = "요전29구주석">
+						<Glossary id = "C01L029_G" name = "요전29구_훈고">
+							<Citation id = "C01L029_GCI1" name = "요전29구_훈고1인용"><Refer id = "C01L029_GCI1R" name = "요전29구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L029_GCI1T" name = "요전29구_훈고1인용구절">餞滅也 滅猶没也</Text></Citation>
+							<Citation id = "C01L029_GCI2" name = "요전29구_훈고2인용"><Refer id = "C01L029_GCI2R" name = "요전29구_훈고2인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L029_GCI2T" name = "요전29구_훈고2인용구절">寅餞納日 謂秋分夕月也</Text></Citation>
+							<Citation id = "C01L029_GCI3" name = "요전29구_훈고3인용"><Refer id = "C01L029_GCI3R" name = "요전29구_훈고3인용출처"><Book id = "B005" korname = "상서대전" chiname = "尙書大傳">書大傳</Book></Refer><Text id = "C01L029_GCI3T" name = "요전29구_훈고3인용구절">寅餞入日 辯秩西成 傳曰天子以秋 命三公將師 選士厲兵 以征不義 決訟獄 斷刑罰 趨収歛 以順天道 以佐秋殺</Text></Citation>
+							<Citation id = "C01L029_GCI4" name = "요전29구_훈고4인용"><Refer id = "C01L029_GCI3R" name = "요전29구_훈고4인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L029_GCI3T" name = "요전29구_훈고4인용구절">敬道日入</Text></Citation>
+ 
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L030" name = "요전30구" content = "宵中星虚 以殷仲秋">宵中星虚 以殷仲秋
+					<Commentary id = "C01L030C" name = "요전30구주석">
+						<Glossary id = "C01L030_G" name = "요전30구_훈고">
+							<Citation id = "C01L030_GCI1" name = "요전30구_훈고1인용"><Refer id = "C01L030_GCI1R" name = "요전30구_훈고1인용출처"><Part id = "Pa024" korname = "사오씨" chiname = "司寤氏">司寤氏</Part>注<Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L030_GCI1T" name = "요전30구_훈고1인용구절">宵定昬也</Text></Citation>
+							<Citation id = "C01L030_GCI2" name = "요전30구_훈고2인용"><Refer id = "C01L030_GCI2R" name = "요전30구_훈고2인용출처"><Book id = "B005" korname = "상서대전" chiname = "尙書大傳">大傳</Book>注<Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L030_GCI2T" name = "요전30구_훈고2인용구절">虚北方玄武之㝛 八月昬中 見于南方</Text></Citation>
+							<Citation id = "C01L030_GCI3" name = "요전30구_훈고3인용"><Refer id = "C01L030_GCI3R" name = "요전30구_훈고3인용출처"><Book id = "B020" korname = "사기색은" chiname = "史記索隱"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part>注 索隱</Book></Refer>曰<Text id = "C01L030_GCI3T" name = "요전30구_훈고3인용구절">虚舊依字譌 而鄒誕生音墟案墟星主墳墓 鄒氏頗得其理 厥民夷</Text></Citation>
+							<Citation id = "C01L030_GCI4" name = "요전30구_훈고4인용"><Refer id = "C01L030_GCI4R" name = "요전30구_훈고4인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L030_GCI4T" name = "요전30구_훈고4인용구절">其民夷易</Text></Citation>
+							<Citation id = "C01L030_GCI5" name = "요전30구_훈고5인용"><Refer id = "C01L030_GCI5R" name = "요전30구_훈고5인용출처"><Book id = "B013" korname = "이아" chiname = "爾雅">爾雅</Book></Refer><Text id = "C01L030_GCI5T" name = "요전30구_훈고5인용구절">夷平易也</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L031" name = "요전31구" content = "鳥獸髦毨">鳥獸髦毨
+					<Commentary id = "C01L031C" name = "요전31구주석">
+						<Glossary id = "C01L031_G" name = "요전31구_훈고">
+							<Citation id = "C01L031_GCI1" name = "요전31구_훈고1인용"><Refer id = "C01L031_GCI1R" name = "요전31구_훈고1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book><Part id = "Pa025" korname = "선" chiname = "毨">毨</Part></Refer><Text id = "C01L031_GCI1T" name = "요전31구_훈고1인용구절">仲秋鳥獸毛盛可選取爲噐用</Text></Citation>
+						</Glossary>			
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L032" name = "요전32구" content = "申命和叔 宅朔方">申命和叔 宅朔方
+					<Commentary id = "C01L032C" name = "요전32구주석">
+						<Glossary id = "C01L032_G" name = "요전32구_훈고">
+							<Citation id = "C01L032_GCI1" name = "요전32구_훈고1인용"><Refer id = "C01L032_GCI1R" name = "요전32구_훈고1인용출처"><Book id = "B013" korname = "이아" chiname = "爾雅">爾雅</Book></Refer><Text id = "C01L032_GCI1T" name = "요전32구_훈고1인용구절">朔北方也</Text></Citation>
+							<Citation id = "C01L032_GCI2" name = "요전32구_훈고2인용"><Text id = "C01L032_GCI2T" name = "요전32구_훈고2인용구절">舎人曰 朔盡也 北方萬物盡 故言朔也 <Person id = "P026" korname = "이순" chiname = "李巡">李巡</Person>曰 萬物盡於北方 蘇而 復生 故言北方</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L033" name = "요전33구" content = "曰幽都">曰幽都
+					<Commentary id = "C01L033C" name = "요전33구주석">
+						<Glossary id = "C01L033_G" name = "요전33구_훈고">
+							<Citation id = "C01L033_GCI1" name = "요전33구_훈고1인용"><Refer id = "C01L033_GCI1R" name = "요전33구_훈고1인용출처"><Book id = "B030" korname = "산해경" chiname = "山海經">山海經</Book></Refer><Text id = "C01L033_GCI1T" name = "요전33구_훈고1인용구절">北海之内 有山名幽都</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L034" name = "요전34구" content = "平在朔易">平在朔易
+					<Commentary id = "C01L034C" name = "요전34구주석">
+						<Glossary id = "C01L034_G" name = "요전34구_훈고">
+							<Citation id = "C01L034_GCI1" name = "요전34구_훈고1인용"><Refer id = "C01L034_GCI1R" name = "요전34구_훈고1인용출처"><Book id = "B005" korname = "상서대전" chiname = "尙書大傳">尙書大傳</Book></Refer><Text id = "C01L034_GCI1T" name = "요전34구_훈고1인용구절">辯在朔易 朔始也 傳曰天子以冬命三公 謹葢藏 閉門閭 固封□ 入山澤田獵 以順天道以佐冬囿藏也</Text></Citation>
+							<Citation id = "C01L034_GCI2" name = "요전34구_훈고2인용"><Refer id = "C01L034_GCI2R" name = "요전34구_훈고2인용출처"><Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person></Refer>曰<Text id = "C01L034_GCI2T" name = "요전34구_훈고2인용구절">改 易者 謹約葢藏循行積聚 <Book id = "B031" korname = "시경" chiname = "詩經">詩</Book>云<Text id = "C01L034_GCI2T2" name = "요전34구_훈고2인용2구절">曰爲改歲 入此室處</Text></Text></Citation>
+							<Citation id = "C01L034_GCI3" name = "요전34구_훈고3인용"><Refer id = "C01L034_GCI3R" name = "요전34구_훈고3인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L034_GCI3T" name = "요전34구_훈고3인용구절">便在伏物</Text></Citation>
+							<Citation id = "C01L034_GCI4" name = "요전34구_훈고4인용"><Refer id = "C01L034_GCI4R" name = "요전34구_훈고4인용출처"><Book id = "B020" korname = "사기색은" chiname = "史記索隱">索隱</Book></Refer>曰<Text id = "C01L034_GCI4T" name = "요전34구_훈고4인용구절">使和叔察北方寒伏之物 謂人畜積聚䓁 冬皆藏伏<Book id = "B032" korname = "시자" chiname = "尸子">尸子</Book>曰 <Text id = "C01L034_GCI4T2" name = "요전34구_훈고4인용2구절">北方者伏方也 尚書 作平在朔易 今按大傳曰 便在伏物 太史公據之而書</Text></Text></Citation>
+						</Glossary>
+							<Collation id = "C01L034_C" name = "요전34구_교감">考異具上</Collation>        
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L035" name = "요전35구" content = "日短星昴 以正仲冬">日短星昴 以正仲冬
+					<Commentary id = "C01L035C" name = "요전35구주석">
+						<Glossary id = "C01L035_G" name = "요전35구_훈고">
+							<Citation id = "C01L035_GCI1" name = "요전35구_훈고1인용"><Refer id = "C01L035_GCI1R" name = "요전35구_훈고1인용1출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person><Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person></Refer><Text id = "C01L035_GCI1T" name = "요전35구_훈고1인용1구절">謂日短 晝漏四十刻</Text><Refer id = "C01L035_GCI1R2" name = "요전35구_훈고1인용2출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰 <Text id = "C01L035_GCI1T2" name = "요전35구_훈고1인용2구절">四十五刻</Text></Citation>
+							<Citation id = "C01L035_GCI2" name = "요전35구_훈고2인용"><Refer id = "C01L035_GCI2R" name = "요전35구_훈고2인용출처"><Book id = "B033" korname = "수서" chiname = "隨書">隋</Book><Part id = "Pa026" korname = "수서천문지" chiname = "隨書天文志">天文志</Part></Refer><Text>據昴星昬中 知堯時仲冬 日在須女十度</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L036" name = "요전36구" content = "厥民隩">厥民隩
+					<Commentary id = "C01L036C" name = "요전36구주석">
+						<Glossary id = "C01L036_G" name = "요전36구_훈고">
+							<Citation id = "C01L036_GCI1" name = "요전36구_훈고1인용"><Refer id = "C01L036_GCI1R" name = "요전36구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L036_GCI1T" name = "요전36구_훈고1인용구절">奧内也</Text></Citation> 
+							<Citation id = "C01L036_GCI2" name = "요전36구_훈고2인용"><Refer id = "C01L036_GCI2R" name = "요전36구_훈고2인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L036_GCI2T" name = "요전36구_훈고2인용구절">隩煖也</Text></Citation> 
+							<Citation id = "C01L036_GCI3" name = "요전36구_훈고3인용"><Refer id = "C01L036_GCI3R" name = "요전36구_훈고3인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L036_GCI3T" name = "요전36구_훈고3인용구절">其民燠</Text></Citation>
+						</Glossary>	
+						<Collation id = "C01L036_C" name = "요전36구_교감">
+							<Citation id = "C01L036_CCI1" name = "요전36구_교감1인용"><Refer id = "C01L036_CCI1R" name = "요전36구_교감1인용출처"><Book id = "B034" korname = "문선주" chiname = "文選注">文選注</Book></Refer> 引<Person id = "P001" korname = "정현" chiname = "鄭玄">鄭</Person>注 隩作奧</Citation> 
+							<Citation id = "C01L036_CCI2" name = "요전36구_교감2인용"><Refer id = "C01L036_CCI2R" name = "요전36구_교감2인용출처"><Book id = "B024" korname = "사기" chiname = "史記">史記</Book></Refer>作燠</Citation>
+						</Collation>						
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L037" name = "요전37구" content = "鳥獸氄毛">鳥獸氄毛
+					<Commentary id = "C01L037C" name = "요전37구주석">
+						<Glossary id = "C01L037_G" name = "요전37구_훈고">
+							<Citation id = "C01L037_GCI1" name = "요전37구_훈고1인용"><Refer id = "C01L037_GCI1R" name = "요전37구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L037_GCI1T" name = "요전37구_훈고1인용구절">氄溫柔貌</Text></Citation>
+							<Citation id = "C01L037_GCI2" name = "요전37구_훈고2인용"><Refer id = "C01L037_GCI2R" name = "요전37구_훈고2인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer><Text id = "C01L037_GCI2T" name = "요전37구_훈고2인용구절">𣯍毛盛也 虞書鳥獸𣯍髦</Text></Citation>
+							<Citation id = "C01L037_GCI3" name = "요전37구_훈고3인용">又曰<Text id = "C01L037_GCI3T" name = "요전37구_훈고3인용구절">𤮪<Sub>而漸反</Sub>羽獵韋絝</Text></Citation> 
+							<Citation id = "C01L037_GCI4" name = "요전37구_훈고4인용">或作𧝻<Text id = "C01L037_GCI4T" name = "요전37구_훈고4인용구절">虞書曰鳥獸𧝻毛</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L037_C" name = "요전37구_교감">考異具上</Collation>        
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L038" name = "요전38구" content = "帝曰咨 汝羲曁和">帝曰咨 汝羲曁和
+					<Commentary id = "C01L038C" name = "요전38구주석">
+						<Glossary id = "C01L038_G" name = "요전38구_훈고">
+							<Citation id = "C01L038_GCI1" name = "요전38구_훈고1인용"><Refer id = "C01L038_GCI1R" name = "요전38구_훈고1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer><Text id = "C01L038_GCI1T" name = "요전38구_훈고1인용구절">謀事曰咨</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L038_C" name = "요전38구_교감">
+							<Citation id = "C01L038_CCI1" name = "요전38구_교감1인용"><Refer id = "C01L038_CCI1R" name = "요전38구_교감1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>曁作臮</Citation>
+							<Citation id = "C01L038_CCI2" name = "요전38구_교감2인용"><Refer id = "C01L038_CCI2R" name = "요전38구_교감2인용출처"><Book id = "B015" korname = "한서" chiname = "漢書">漢書</Book></Refer>同</Citation><Mention>後放此</Mention>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L039" name = "요전39구" content = "朞三百有六旬有六日 以閏月 定四時成歲">朞三百有六旬有六日 以閏月 定四時成歲
+					<Commentary id = "C01L039C" name = "요전39구주석">
+						<Glossary id = "C01L039_G" name = "요전39구_훈고">
+							<Citation id = "C01L039_GCI1" name = "요전39구_훈고1인용"><Refer id = "C01L039_GCI1R" name = "요전39구_훈고1인용출처"><Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person></Refer>曰<Text id = "C01L039_GCI1T" name = "요전39구_훈고1인용구절">朞四時也</Text></Citation>
+							<Citation id = "C01L039_GCI2" name = "요전39구_훈고2인용"><Refer id = "C01L039_GCI2R" name = "요전39구_훈고2인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>引此 作稘云 <Text id = "C01L039_GCI2T" name = "요전39구_훈고2인용구절">復其時也</Text></Citation>
+							<Citation id = "C01L039_GCI3" name = "요전39구_훈고3인용"><Refer id = "C01L039_GCI3R" name = "요전39구_훈고3인용출처"><Part id = "Pa015" korname = "율력지" chiname = "律歷志">律歷志</Part></Refer>注<Person id = "P016" korname = "안사고" chiname = "顔師古">師古</Person><Text id = "C01L039_GCI3T" name = "요전39구_훈고3인용구절">匝四時 凡三百六十六日而定一歲十二月 月三十日 正三百六十日 則餘六日矣 又除小月 六日 是爲歲有餘十二日 未盈三歲 便得一月 則置閏焉</Text></Citation>
+							<Citation id = "C01L039_GCI4" name = "요전39구_훈고4인용"><Refer id = "C01L039_GCI4R" name = "요전39구_훈고4인용출처"><Person id = "P027" korname = "두예" chiname = "杜預">杜預</Person><Book id = "B035" korname = "춘추장력" chiname = "春秋長歷">長歷</Book></Refer>引此云<Text id = "C01L039_GCI4T" name = "요전39구_훈고4인용구절">閏月無中氣 北斗邪指兩辰之間 積此無違 乃得成歲</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L039_C" name = "요전39구_교감">
+							<Citation id = "C01L039_CCI1" name = "요전39구_교감1인용"><Refer id = "C01L039_CCI1R" name = "요전39구_교감1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>朞作稘</Citation>
+							<Citation id = "C01L039_CCI2" name = "요전39구_교감2인용"><Refer id = "C01L039_CCI2R" name = "요전39구_교감2인용출처"><Part id = "Pa015" korname = "율력지" chiname = "律曆志">律曆</Part></Refer>朞作作歲</Citation>
+							<Citation id = "C01L039_CCI3" name = "요전39구_교감3인용"><Refer id = "C01L039_CCI3R" name = "요전39구_교감3인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer> 定作正</Citation>
+							<Citation id = "C01L039_CCI4" name = "요전39구_교감4인용"><Refer id = "C01L039_CCI4R" name = "요전39구_교감4인용출처"><Book id = "B036" korname = "곤학기문" chiname = "困學記聞">困學記聞</Book></Refer><Text id = "C01L039_CCI4T" name = "요전39구_교감4인용구절"><NewOldText id = "NO006"><Book id = "B053" korname = "고문상서" chiname = "古文尙書">古文</Book>作正 天寳誤作定</NewOldText></Text></Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L040" name = "요전40구" content = "允釐百工 庶績咸熙">允釐百工 庶績咸熙
+					<Commentary id = "C01L040C" name = "요전40구주석">
+						<Glossary id = "C01L040_G" name = "요전40구_훈고">
+							<Citation id = "C01L040_GCI1" name = "요전40구_훈고1인용"><Refer id = "C01L040_GCI1R" name = "요전40구_훈고1인용출처"><Book id = "B013" korname = "이아" chiname = "爾雅">爾雅</Book></Refer><Text id = "C01L040_GCI1T" name = "요전40구_훈고1인용구절">熙興也</Text></Citation>
+							<Citation id = "C01L040_GCI2" name = "요전40구_훈고2인용"><Refer id = "C01L040_GCI2R" name = "요전40구_훈고2인용출처"><Person id = "P023" korname = "곽박" chiname = "郭璞">郭璞</Person></Refer>引此</Citation>
+							<Citation id = "C01L040_GCI3" name = "요전40구_훈고3인용"><Refer id = "C01L040_GCI3R" name = "요전40구_훈고3인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer> <Text id = "C01L040_GCI3T" name = "요전40구_훈고3인용구절">信飭百官 衆功皆興</Text></Citation>
+							<Citation id = "C01L040_GCI4" name = "요전40구_훈고4인용"><Refer id = "C01L040_GCI4R" name = "요전40구_훈고4인용출처"><Part id = "Pa015" korname = "율력지" chiname = "律歷志">律歷志</Part></Refer><Margin>□□百官</Margin><Text id = "C01L040_GCI4T" name = "요전40구_훈고4인용구절">衆㓛皆美</Text></Citation> 
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L041" name = "요전41구" content = "帝曰疇咨若時 登庸">帝曰疇咨若時 登庸
+					<Commentary id = "C01L041C" name = "요전41구주석">
+						<Glossary id = "C01L041_G" name = "요전41구_훈고">
+							<Citation id = "C01L041_GCI1" name = "요전41구_훈고1인용"><Refer id = "C01L041_GCI1R" name = "요전41구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L041_GCI1T" name = "요전41구_훈고1인용구절">羲和爲卿官 堯之末年 皆已老死 庶績多闕 故求賢順 四時之職 故用以代羲和</Text></Citation>
+							<Citation id = "C01L041_GCI2" name = "요전41구_훈고2인용"><Refer id = "C01L041_GCI2R" name = "요전41구_훈고2인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L041_GCI2T" name = "요전41구_훈고2인용구절">堯末羲和之子皆死 庶績多闕 而官廢 當此之時 驩兜共工 更相薦舉</Text></Citation>
+							<Citation id = "C01L041_GCI3" name = "요전41구_훈고3인용"><Refer id = "C01L041_GCI3R" name = "요전41구_훈고3인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L041_GCI3T" name = "요전41구_훈고3인용구절">帝曰誰可順此事</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L041_C" name = "요전41구_교감">
+							<Citation id = "C01L041_CCI1" name = "요전41구_교감1인용"><Refer id = "C01L041_CCI1R" name = "요전41구_교감1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>引此 疇作□云<Text id = "C01L041_CCI1T" name = "요전41구_교감1인용구절">詞也 與疇同</Text></Citation>
+							<Citation id = "C01L041_CCI2" name = "요전41구_교감2인용"><Refer id = "C01L041_CCI2R" name = "요전41구_교감2인용출처"><Book id = "B037" korname = "주례정의" chiname = "周禮正義">周禮正義</Book><Part id = "Pa027" korname = "주례정의서" chiname = "周禮正義序">序</Part></Refer> 引此咨作資</Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L042" name = "요전42구" content = "放齊曰 胤子朱啓明">放齊曰 胤子朱啓明
+					<Commentary id = "C01L042C" name = "요전42구주석">
+						<Glossary id = "C01L042_G" name = "요전42구_훈고">
+							<Citation id = "C01L042_GCI1" name = "요전42구_훈고1인용"><Refer id = "C01L042_GCI1R" name = "요전42구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L042_GCI1T" name = "요전42구_훈고1인용구절">胤嗣也 帝之嗣子曰朱</Text></Citation>
+							<Citation id = "C01L042_GCI2" name = "요전42구_훈고2인용"><Refer id = "C01L042_GCI2R" name = "요전42구_훈고2인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L042_GCI2T" name = "요전42구_훈고2인용구절">帝堯胤嗣之子 名曰丹朱 開明也</Text></Citation>
+							<Citation id = "C01L042_GCI3" name = "요전42구_훈고3인용"><Refer id = "C01L042_GCI3R" name = "요전42구_훈고3인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book><Part id = "Pa028" korname = "추" chiname = "絑">絑</Part></Refer><Text id = "C01L042_GCI3T" name = "요전42구_훈고3인용구절">純赤也 虞書丹朱如此</Text></Citation>
+							<Citation id = "C01L042_GCI4" name = "요전42구_훈고4인용"><Refer id = "C01L042_GCI4R" name = "요전42구_훈고4인용출처"><Book id = "B038" korname = "제왕세기" chiname = "帝王世紀">帝王世紀</Book></Refer><Text id = "C01L042_GCI4T" name = "요전42구_훈고4인용구절">堯娶散冝氏之女 曰女皇生丹朱 荆州記 丹水縣在丹川 堯子 朱之所封</Text></Citation>
+							<Citation id = "C01L042_GCI5" name = "요전42구_훈고5인용"><Refer id = "C01L042_GCI5R" name = "요전42구_훈고5인용출처"><Book id = "B039" korname = "통전" chiname = "通典">通典</Book></Refer><Text id = "C01L042_GCI5T" name = "요전42구_훈고5인용구절">相州堯城縣 有丹朱陵</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L042_C" name = "요전42구_교감">
+							<Citation id = "C01L042_CCI1" name = "요전42구_교감1인용"><Refer id = "C01L042_CCI1R" name = "요전42구_교감1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer> 朱作絑</Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L043" name = "요전43구" content = "帝曰吁嚚訟可乎">帝曰吁嚚訟可乎
+					<Commentary id = "C01L043C" name = "요전43구주석">
+						<Glossary id = "C01L043_G" name = "요전43구_훈고">
+							<Citation id = "C01L043_GCI1" name = "요전43구_훈고1인용"><Refer id = "C01L043_GCI1R" name = "요전43구_훈고1인용출처"><Book id = "B005" korname = "춘추좌씨전" chiname = "春秋左氏傳">左傳</Book></Refer><Text id = "C01L043_GCI1T" name = "요전43구_훈고1인용구절">口不道忠信之言爲嚚</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L043_C" name = "요전43구_교감">
+							<Citation id = "C01L043_CCI1" name = "요전43구_교감1인용"><Refer id = "C01L043_CCI1R" name = "요전43구_교감1인용출처"><Book id = "B026" korname = "마본" chiname = "馬本">馬本</Book></Refer>訟作庸</Citation>
+							<Opin id = "C01L043_CO" name = "요전43구_교감1견해">綽按 庸用也 用可乎言不可用也 <Citation id = "C01L043_COCI1" name = "요전43구_교감1견해1인용"><Refer id = "C01L043_COCI1R" name = "요전43구_교감1견해1인용출처"><Book id = "B024" korname = "사기" chiname = "史記">史記</Book></Refer><Text id = "C01L043_COCI1T" name = "요전43구_교감1견해1인용1구절">頑凶不用</Text>卽馬義也</Citation></Opin>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L044" name = "요전44구" content = "帝曰 疇咨若予采">帝曰 疇咨若予采
+					<Commentary id = "C01L044C" name = "요전44구주석">
+						<Glossary id = "C01L044_G" name = "요전44구_훈고">
+							<Citation id = "C01L044_GCI1" name = "요전44구_훈고1인용"><Refer id = "C01L044_GCI1R" name = "요전44구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰 采官也</Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L045" name = "요전45구" content = "驩兜曰都">驩兜曰都
+					<Commentary id = "C01L045C" name = "요전45구주석">
+					    <Collation id = "C01L045_C" name = "요전45구_교감">
+							<Citation id = "C01L045_CCI1" name = "요전45구_교감1인용"><Refer id = "C01L045_CCI1R" name = "요전45구_교감1인용출처"><Book id = "B040" korname = "신이경" chiname = "神異經">神異經</Book></Refer> 作鴅兜云<Text id = "C01L045_CCI1T" name = "요전45구_교감1인용구절">一名驩兜</Text></Citation>
+							<Citation id = "C01L045_CCI2" name = "요전45구_교감2인용"><Refer id = "C01L045_CCI2R" name = "요전45구_교감2인용출처">注</Refer>鴅兜<Text id = "C01L045_CCI2T" name = "요전45구_교감2인용구절"><NewOldText id = "NO007"><Book id = "B053" korname = "고문상서" chiname = "古文尙書">古文尙書</Book>作鴅吺</NewOldText></Text></Citation> - 출천불분명
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L046" name = "요전46구" content = "共工方鳩僝功">共工方鳩僝功
+					<Commentary id = "C01L046C" name = "요전46구주석">
+						<Glossary id = "C01L046_G" name = "요전46구_훈고">
+						<Citation id = "C01L046_GCI1" name = "요전46구_훈고1인용"><Refer id = "C01L046_GCI1R" name = "요전46구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L046_GCI1T" name = "요전46구_훈고1인용구절">共工水官也 其人名氏未聞 先祖居此官 故以官氏也</Text></Citation> 
+						<Citation id = "C01L046_G2" name = "요전46구_훈2인용"><Refer id = "C01L046_G2R" name = "요전46구_훈고2인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L046_GCI2T" name = "요전46구_훈고3인용구절">僝具也</Text></Citation>
+						<Citation id = "C01L046_GCI3" name = "요전46구_훈고3인용"><Refer id = "C01L046_GCI3R" name = "요전46구_훈고3인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>同云<Text id = "C01L046_GCI3T" name = "요전46구_훈고3인용구절">虞書曰㫄救僝功</Text></Citation>
+						<Citation id = "C01L046_GCI4" name = "요전46구_훈고4인용">又曰<Text id = "C01L046_GCI4T" name = "요전46구_훈고4인용구절">逑聚也 虞書曰㫄逑孱功</Text></Citation>
+						<Citation id = "C01L046_GCI5" name = "요전46구_훈고5인용"><Refer id = "C01L046_GCI5R" name = "요전46구_훈고5인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L046_GCI5T" name = "요전46구_훈고5인용구절">㫄聚布功</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L046_C" name = "요전46구_교감">
+							<Citation id = "C01L046_CCI1" name = "요전46구_교감1인용"><Refer id = "C01L046_CCI1R" name = "요전46구_교감1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>兩引此 方皆作㫄 鳩作救 作逑 僝作孱 一作僝</Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L047" name = "요전47구" content = "帝曰吁 靜言庸違象恭滔天">帝曰吁 靜言庸違象恭滔天
+					<Commentary id = "C01L047C" name = "요전47구주석">
+						<Glossary id = "C01L047_G" name = "요전47구_훈고">
+							<Citation id = "C01L047_GCI1" name = "요전47구_훈고1인용"><Refer id = "C01L047_GCI1R" name = "요전47구_훈고1인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L047_GCI1T" name = "요전47구_훈고1인용구절">共工善言 其用辭 似恭 漫天不可</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L047_C" name = "요전47구_교감">
+							<Citation id = "C01L047_CCI1" name = "요전47구_교감1인용"><Refer id = "C01L047_CCI1R" name = "요전47구_교감1인용출처"><Book id = "B041" korname = "논형" chiname = "論衡">論衡</Book>及<Book id = "B042" korname = "잠부론" chiname = "潜夫論">潜夫論</Book></Refer> 作靖言庸回</Citation>
+							<Citation id = "C01L047_CCI2" name = "요전47구_교감2인용"><Refer id = "C01L047_CCI2R" name = "요전47구_교감2인용출처"><Book id = "B004" korname = "삼국지" chiname = "三國志">三國志</Book><Part id = "Pa029" korname = "육손전" chiname = "陸遜傳">陸遜傳</Part></Refer> 作靖譖庸回</Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L048" name = "요전48구" content = "帝曰咨四岳">帝曰咨四岳
+					<Commentary id = "C01L048C" name = "요전48구주석">
+						<Glossary id = "C01L048_G" name = "요전48구_훈고">
+							<Margin><Citation id = "C01L048_GCI1" name = "요전48구_훈고1인용"><Refer id = "C01L048_GCI1R" name = "요전48구_훈고1인용출처"><Book id = "B018" korname = "백호통" chiname = "白虎通">白虎通</Book></Refer><Text id = "C01L048_GCI1T" name = "요전48구_훈고1인용구절">接下稱帝王者 明位號天下至尊之稱 以號令臣下也 故尚書帝曰 諮四岳 王曰 格汝衆 咨作諮</Text></Citation></Margin>
+							<Citation id = "C01L048_GCI2" name = "요전48구_훈고2인용"><Refer id = "C01L048_GCI2R" name = "요전48구_훈고2인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L048_GCI2T" name = "요전48구_훈고2인용구절">四嶽 四時之官 主四嶽之事 始羲和之時 主四嶽者謂 之四伯 至其死 分嶽事置八伯 皆王官 其八伯唯驩兜共工放齊◎四人而已 其餘四人 無文可知</Text></Citation>
+							<Citation id = "C01L048_GCI3" name = "요전48구_훈고3인용"><Refer id = "C01L048_GCI3R" name = "요전48구_훈고3인용출처"><Book id = "B028" korname = "정지" chiname = "鄭志">鄭志</Book></Refer><Text id = "C01L048_GCI3T" name = "요전48구_훈고3인용구절"><Person id = "P028" korname = "장일" chiname = "張逸">張逸</Person>問九州而八伯何 答曰畿内不置伯 有鄕遂之吏主之 伯即牧也</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L048_C" name = "요전48구_교감">
+							<Citation id = "C01L048_CCI1" name = "요전48구_교감1인용"><Refer id = "C01L048_CCI1R" name = "요전48구_교감1인용출처"><Book id = "B024" korname = "사기" chiname = "史記">史記</Book></Refer>岳作嶽</Citation>
+							<Citation id = "C01L048_CCI2" name = "요전48구_교감2인용"><Refer id = "C01L048_CCI2R" name = "요전48구_교감2인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭</Person>注</Refer>同</Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L049" name = "요전49구" content = "湯湯洪水方割">湯湯洪水方割
+					<Commentary id = "C01L049C" name = "요전49구주석">
+						<Glossary id = "C01L049_G" name = "요전49구_훈고">
+							<Citation id = "C01L049_GCI1" name = "요전49구_훈고1인용"><Refer id = "C01L049_GCI1R" name = "요전49구_훈고1인용출처"><Book id = "B004" korname = "삼국지" chiname = "三國志">三國志</Book></Refer><Person id = "P029" korname = "고당륭" chiname = "高堂隆">高堂隆</Person>曰<Text id = "C01L049_GCI1T" name = "요전49구_훈고1인용구절">昔在伊唐 世値陽九厄運之會 洪水滔天</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L049_C" name = "요전49구_교감">
+							<Citation id = "C01L049_CCI1" name = "요전49구_교감1인용"><Refer id = "C01L049_CCI1R" name = "요전49구_교감1인용출처"><Epigraph id = "Ep010" korname = "한우묘비" chiname = "漢禹廟碑">漢禹廟碑</Epigraph></Refer><Text id = "C01L049_CCI1T" name = "요전49구_교감1인용구절">鴻水滔天</Text>洪作鴻</Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L050" name = "요전50구" content = "蕩蕩懷山襄陵">蕩蕩懷山襄陵
+					<Commentary id = "C01L050C" name = "요전50구주석">
+						<Glossary id = "C01L050_G" name = "요전50구_훈고">
+							<Citation id = "C01L050_GCI1" name = "요전50구_훈고1인용"><Refer id = "C01L050_GCI1R" name = "요전50구_훈고1인용출처"><Book id = "B013" korname = "이아" chiname = "爾雅">爾雅</Book></Refer><Text id = "C01L050_GCI1T" name = "요전50구_훈고1인용구절">襄駕也</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L050_C" name = "요전50구_교감">
+							<Citation id = "C01L050_CCI1" name = "요전50구_교감1인용"><Refer id = "C01L050_CCI1R" name = "요전50구_교감1인용출처"><Part id = "Pa012" korname = "지리지" chiname = "地理志">地理志</Part></Refer>引此 懷作褱</Citation>
+							<Citation id = "C01L050_CCI2" name = "요전50구_교감2인용"><Refer id = "C01L050_CCI2R" name = "요전50구_교감2인용출처"><Person id = "P016" korname = "안사고" chiname = "顔師古">師古</Person></Refer>曰<Text id = "C01L050_CCI2T" name = "요전50구_교감2인용구절">褱字 與古懷字同 懷包也</Text></Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L051" name = "요전51구" content = "浩浩滔天">浩浩滔天
+					<Commentary id = "C01L051C" name = "요전51구주석">
+						<Glossary id = "C01L051_G" name = "요전51구_훈고">
+							<Citation id = "C01L051_GCI1" name = "요전51구_훈고1인용"><Refer id = "C01L051_GCI1R" name = "요전51구_훈고1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer><Text id = "C01L051_GCI1T" name = "요전51구_훈고1인용구절">浩澆也 虞書曰 洪水浩浩</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L052" name = "요전52구" content = "下民其咨 有能俾乂">下民其咨 有能俾乂
+					<Commentary id = "C01L052C" name = "요전52구주석">
+						<Glossary id = "C01L052_G" name = "요전52구_훈고">
+							<Citation id = "C01L052_GCI1" name = "요전52구_훈고1인용"><Refer id = "C01L052_GCI1R" name = "요전52구_훈고1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>引此 乂作䢃云<Text id = "C01L052_GCI1T" name = "요전52구_훈고1인용구절">治也</Text></Citation><Mention>書中作乂者 皆放此</Mention>
+							<Citation id = "C01L052_GCI2" name = "요전52구_훈고2인용"><Refer id = "C01L052_GCI2R" name = "요전52구_훈고2인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L052_GCI2T" name = "요전52구_훈고2인용구절">有能使治者</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L053" name = "요전53구" content = "僉曰於鯀哉">僉曰於鯀哉
+					<Commentary id = "C01L053C" name = "요전53구주석">
+						<Glossary id = "C01L053_G" name = "요전53구_훈고">
+							<Citation id = "C01L053_GCI1" name = "요전53구_훈고1인용"><Refer id = "C01L053_GCI1R" name = "요전53구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L053_GCI1T" name = "요전53구_훈고1인용구절">鯀禹父也</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L053_C" name = "요전53구_교감">
+							<Citation id = "C01L053_CCI1" name = "요전53구_교감1인용"><Refer id = "C01L053_CCI1R" name = "요전53구_교감1인용출처"><Book id = "B043" korname = "습유기" chiname = "拾遺記">拾遺記</Book></Refer>鯀作鮌云<Text id = "C01L053_CCI1T" name = "요전53구_교감1인용구절">鮌治水無績 自沈於淵 化爲玄魚 尙書殛鮌于羽山</Text></Citation>
+							<Citation id = "C01L053_CCI2" name = "요전53구_교감2인용"><Refer id = "C01L053_CCI2R" name = "요전53구_교감2인용출처"><Book id = "B037" korname = "주례정의" chiname = "周禮正義">周禮正義</Book><Part id = "Pa027" korname = "주례정의서" chiname = "周禮正義序">序</Part>引<Person id = "P001" korname = "정현" chiname = "鄭玄">鄭</Person>注</Refer>鯀作𩩌</Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L054" name = "요전54구" content = "帝曰吁咈哉 方命圮族">帝曰吁咈哉 方命圮族
+					<Commentary id = "C01L054C" name = "요전54구주석">
+						<Glossary id = "C01L054_G" name = "요전54구_훈고">
+							<Citation id = "C01L054_GCI1" name = "요전54구_훈고1인용"><Refer id = "C01L054_GCI1R" name = "요전54구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L054_GCI1T" name = "요전54구_훈고1인용구절">方放也 鄭玄同</Text></Citation>
+							<Citation id = "C01L054_GCI2" name = "요전54구_훈고2인용"><Refer id = "C01L054_GCI2R" name = "요전54구_훈고2인용출처"><Book id = "B015" korname = "한서" chiname = "漢書">漢書</Book><Part id = "Pa030" korname = "설선주박전" chiname = "薛宣朱博傳">薛宣傳</Part><Part id = "Pa031" korname = "왕상사단부희전" chiname = "王商史丹傅喜傳">史丹傳</Part></Refer><Margin>史丹當作傳喜</Margin>方並作放</Citation>
+							<Citation id = "C01L054_GCI3" name = "요전54구_훈고3인용"><Refer id = "C01L054_GCI3R" name = "요전54구_훈고3인용출처"><Person id = "P021" korname = "응소" chiname = "應劭">應劭</Person></Refer>曰<Text id = "C01L054_GCI3T" name = "요전54구_훈고3인용구절">放棄敎令 毁其族類</Text></Citation>
+							<Citation id = "C01L054_GCI4" name = "요전54구_훈고4인용"><Refer id = "C01L054_GCI4R" name = "요전54구_훈고4인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book></Refer>引此云 圮<Text id = "C01L054_GCI4T" name = "요전54구_훈고4인용구절">毁也</Text></Citation>
+							<Citation id = "C01L054_GCI5" name = "요전54구_훈고5인용"><Refer id = "C01L054_GCI5R" name = "요전54구_훈고5인용출처"><Book id = "B013" korname = "이아" chiname = "爾雅">爾雅</Book><Person id = "P023" korname = "곽박" chiname = "郭璞">郭璞</Person>注</Refer>同</Citation>
+							<Citation id = "C01L054_GCI6" name = "요전54구_훈고6인용"><Refer id = "C01L054_GCI6R" name = "요전54구_훈고6인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L054_GCI6T" name = "요전54구_훈고6인용구절">堯曰鯀負命毁族不可</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L054_C" name = "요전54구_교감">
+							<Citation id = "C01L054_CCI1" name = "요전54구_교감1인용"><Refer id = "C01L054_CCI1R" name = "요전54구_교감1인용출처"><Book id = "B015" korname = "한서" chiname = "漢書">漢書</Book></Refer>方作放</Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L055" name = "요전55구" content = "岳曰异哉">岳曰异哉
+					<Commentary id = "C01L055C" name = "요전55구주석">
+						<Glossary id = "C01L055_G" name = "요전55구_훈고">
+							<Citation id = "C01L055_GCI1" name = "요전55구_훈고1인용"><Refer id = "C01L055_GCI1R" name = "요전55구_훈고1인용출처"><Book id = "B003" korname = "설문해자" chiname = "說文解字">說文</Book><Part id = "Pa032" korname = "이" chiname = "异">异</Part></Refer><Text id = "C01L055_GCI1T" name = "요전55구_훈고1인용구절">舉也虞書曰 岳曰异哉</Text></Citation>
+							<Citation id = "C01L055_GCI2" name = "요전55구_훈고2인용"><Refer id = "C01L055_GCI2R" name = "요전55구_훈고2인용출처"><Book id = "B034" korname = "문선주" chiname = "文選注">文選</Book><Part id = "Pa033" korname = "위도부" chiname = "魏都賦">左思賦</Part>注</Refer><Person id = "P030" korname = "유규" chiname = "劉逵">劉逵</Person>引此云<Text id = "C01L055_GCI2T" name = "요전55구_훈고2인용구절">异異也</Text></Citation>
+							<Citation id = "C01L055_GCI3" name = "요전55구_훈고3인용"><Refer id = "C01L055_GCI3R" name = "요전55구_훈고3인용출처"><Book id = "B044" korname = "경전석문" chiname = "經典釋文">釋文</Book></Refer><Text id = "C01L055_GCI3T" name = "요전55구_훈고3인용구절">异鄭音異</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L056" name = "요전56구" content = "試可乃已 帝曰往欽哉">試可乃已 帝曰往欽哉
+					<Commentary id = "C01L056C" name = "요전56구주석">
+						<Glossary id = "C01L056_G" name = "요전56구_훈고">
+							<Citation id = "C01L056_GCI1" name = "요전56구_훈고1인용"><Refer id = "C01L056_GCI1R" name = "요전56구_훈고1인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L056_GCI1T" name = "요전56구_훈고1인용구절">堯以大聖 知時運當然 人力所不 能治 下民其咨 亦當憂勞 屈己之是 從人之非 遂用於鯀</Text></Citation>
+							<Citation id = "C01L056_GCI2" name = "요전56구_훈고2인용"><Refer id = "C01L056_GCI2R" name = "요전56구_훈고2인용출처"><Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person></Refer>曰<Text id = "C01L056_GCI2T" name = "요전56구_훈고2인용구절">堯意不能明鯀 是以試用</Text></Citation>
+							<Citation id = "C01L056_GCI3" name = "요전56구_훈고3인용"><Refer id = "C01L056_GCI3R" name = "요전56구_훈고3인용출처"><Person id = "P031" korname = "이옹" chiname = "李顒">李顒</Person></Refer>曰<Text id = "C01L056_GCI3T" name = "요전56구_훈고3인용구절">堯雖獨明於上 衆多不達於下 故不得不副倒懸之望 以供一切之求耳</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L057" name = "요전57구" content = "九載 績用弗成">九載 績用弗成
+					<Commentary id = "C01L057C" name = "요전57구주석">
+						<Glossary id = "C01L057_G" name = "요전57구_훈고">
+							<Citation id = "C01L057_GCI1" name = "요전57구_훈고1인용"><Refer id = "C01L057_GCI1R" name = "요전57구_훈고1인용출처"><Book id = "B013" korname = "이아" chiname = "爾雅">爾雅</Book></Refer><Text id = "C01L057_GCI1T" name = "요전57구_훈고1인용구절">載歲也 唐虞曰載</Text></Citation>
+							<Citation id = "C01L057_GCI2" name = "요전57구_훈고2인용"><Refer id = "C01L057_GCI2R" name = "요전57구_훈고2인용출처">注<Person id = "P032" korname = "손염" chiname = "孫炎">孫炎</Person></Refer>曰<Text id = "C01L057_GCI2T" name = "요전57구_훈고2인용구절">載取萬物 始㪅終也</Text></Citation>
+							<Citation id = "C01L057_GCI3" name = "요전57구_훈고3인용"><Refer id = "C01L057_GCI3R" name = "요전57구_훈고3인용출처"><Book id = "B045" korname = "오월춘추" chiname = "吳越春秋">吳越春秋</Book></Refer><Text id = "C01L057_GCI3T" name = "요전57구_훈고3인용구절">堯遭洪水 天下沈漬 九州閼塞 帝命四嶽 舉賢良 四嶽舉鯀 帝曰負命毁族 不可 四嶽曰等之羣臣 未有如鯀者 堯用治水 受命九載 㓛不成</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L058" name = "요전58구" content = "帝曰咨四岳 朕在位七十載">帝曰咨四岳 朕在位七十載
+					<Commentary id = "C01L058C" name = "요전58구주석">
+						<Glossary id = "C01L058_G" name = "요전58구_훈고">
+							<Citation id = "C01L058_GCI1" name = "요전58구_훈고1인용"><Refer id = "C01L058_GCI1R" name = "요전58구_훈고1인용출처"><Person id = "P033" korname = "채옹" chiname = "蔡邕">蔡邕</Person><Book id = "B046" korname = "독단" chiname = "獨斷">獨斷</Book></Refer><Text id = "C01L058_GCI1T" name = "요전58구_훈고1인용구절">朕我也 古者尊卑共之 堯曰朕在位七十載 臯陶曰朕言惠可底行 此其義也 至秦 天子獨以爲稱 漢因而不改也</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L059" name = "요전59구" content = "汝能庸命 巽朕位">汝能庸命 巽朕位
+					<Commentary id = "C01L059C" name = "요전59구주석">
+						<Glossary id = "C01L059_G" name = "요전59구_훈고">
+							<Citation id = "C01L059_GCI1" name = "요전59구_훈고1인용"><Refer id = "C01L059_GCI1R" name = "요전59구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L059_GCI1T" name = "요전59구_훈고1인용구절">言汝諸侯之中 有能順事用天命者 令處我位 統治天子之事者乎</Text></Citation>
+							<Citation id = "C01L059_GCI2" name = "요전59구_훈고2인용"><Refer id = "C01L059_GCI2R" name = "요전59구_훈고2인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L059_GCI2T" name = "요전59구_훈고2인용구절">巽讓也</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L060" name = "요전60구" content = "岳曰否德 忝帝位">岳曰否德 忝帝位
+					<Commentary id = "C01L060C" name = "요전60구주석">
+						<Glossary id = "C01L060_G" name = "요전60구_훈고">
+							<Citation id = "C01L060_GCI1" name = "요전60구_훈고1인용"><Refer id = "C01L060_GCI1R" name = "요전60구_훈고1인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L060_GCI1T" name = "요전60구_훈고1인용구절"><Person id = "P034" korname = "악응" chiname = "嶽應">嶽應</Person>曰鄙德</Text></Citation>
+							<Citation id = "C01L060_GCI2" name = "요전60구_훈고2인용"><Refer id = "C01L060_GCI2R" name = "요전60구_훈고2인용출처"><Book id = "B013" korname = "이아" chiname = "爾雅">爾雅</Book></Refer><Text id = "C01L060_GCI2T" name = "요전60구_훈고2인용구절">忝辱也</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L061" name = "요전61구" content = "曰明 明揚側陋">曰明 明揚側陋
+					<Commentary id = "C01L061C" name = "요전61구주석">
+						<Glossary id = "C01L061_G" name = "요전61구_훈고">
+							<Citation id = "C01L061_GCI1" name = "요전61구_훈고1인용"><Refer id = "C01L061_GCI1R" name = "요전61구_훈고1인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L061_GCI1T" name = "요전61구_훈고1인용구절">堯曰 悉舉貴戚 及䟽遠隱匿者</Text></Citation>
+							<Citation id = "C01L061_GCI2" name = "요전61구_훈고2인용"><Refer id = "C01L061_GCI2R" name = "요전61구_훈고2인용출처"><Part id = "Pa034" korname = "은행전론" chiname = "恩倖傳論">沈約恩倖傳</Part> 明敭幽仄注<Person id = "P012" korname = "이선" chiname = "李善">李善</Person></Refer>引此 揚作敭 側作仄</Citation>
+							<Citation id = "C01L061_GCI3" name = "요전61구_훈고3인용"><Refer id = "C01L061_GCI3R" name = "요전61구_훈고3인용출처"><Book id = "B013" korname = "이아" chiname = "爾雅">爾雅</Book></Refer><Text id = "C01L061_GCI3T" name = "요전61구_훈고3인용구절">陋隱也</Text></Citation>
+							<Citation id = "C01L061_GCI4" name = "요전61구_훈고4인용"><Refer id = "C01L061_GCI4R" name = "요전61구_훈고4인용출처"><Person id = "P023" korname = "곽박" chiname = "郭璞">郭璞</Person></Refer>引此</Citation>
+						</Glossary>
+						<Collation id = "C01L061_C" name = "요전61구_교감">考異具上</Collation>        
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L062" name = "요전62구" content = "師錫帝曰">師錫帝曰
+					<Commentary id = "C01L062C" name = "요전62구주석">
+						<Glossary id = "C01L062_G" name = "요전62구_훈고">
+							<Citation id = "C01L062_GCI1" name = "요전62구_훈고1인용"><Refer id = "C01L062_GCI1R" name = "요전62구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L062_GCI1T" name = "요전62구_훈고1인용구절">師諸矦之師</Text></Citation>
+							<Citation id = "C01L062_GCI2" name = "요전62구_훈고2인용"><Refer id = "C01L062_GCI2R" name = "요전62구_훈고2인용출처"><Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person></Refer>曰<Text id = "C01L062_GCI2T" name = "요전62구_훈고2인용구절">古者將舉大事 訊羣吏 訊萬人 堯將讓位 咨四岳 使問羣臣 衆舉側陋 衆皆願與舜 堯計事之大者 莫過禪讓必應博詢吏人 非獨在位也</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L063" name = "요전63구" content = "有鰥在下 曰虞舜">有鰥在下 曰虞舜 
+					<Commentary id = "C01L063C" name = "요전63구주석">
+						<Glossary id = "C01L063_G" name = "요전63구_훈고">
+						<Citation id = "C01L063_GCI1" name = "요전63구_훈고1인용"><Refer id = "C01L063_GCI1R" name = "요전63구_훈고1인용출처"><Book id = "B005" korname = "상서대전" chiname = "尙書大傳">書大傳</Book></Refer>男子三十而娶 女子二十而嫁 舜父頑母嚚 不見室家之端 故謂之鰥</Citation>
+						<Citation id = "C01L063_GCI2" name = "요전63구_훈고2인용"><Refer id = "C01L063_GCI2R" name = "요전63구_훈고2인용출처"><Book id = "B017" korname = "오경이의" chiname = "五經異義">五經異義</Book></Refer><Text id = "C01L063_GCI2T" name = "요전63구_훈고2인용구절">人君早婚娶 不可以年三十 舜生三十不娶 謂之鰥</Text></Citation>
+						<Margin><Citation id = "C01L063_GCI3" name = "요전63구_훈고3인용"><Refer id = "C01L063_GCI3R" name = "요전63구_훈고3인용출처"><Book id = "B027" korname = "풍속통" chiname = "風俗通">風俗通</Book></Refer><Text id = "C01L063_GCI3T" name = "요전63구_훈고3인용구절">舜禹本以白衣 砥行顯名升為天子 雖復更制不如名著 故因名焉經曰有鰥 在下曰虞舜 僉曰伯禹 禹平水土是也</Text></Citation></Margin>
+						<Citation id = "C01L063_GCI4" name = "요전63구_훈고4인용"><Refer id = "C01L063_GCI4R" name = "요전63구_훈고4인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L063_GCI4T" name = "요전63구_훈고4인용구절">虞氏舜名</Text></Citation>
+						<Citation id = "C01L063_GCI5" name = "요전63구_훈고5인용"><Refer id = "C01L063_GCI5R" name = "요전63구_훈고5인용출처"><Person id = "P003" korname = "마융" chiname = "馬融">馬融</Person></Refer>曰<Text id = "C01L063_GCI5T" name = "요전63구_훈고5인용구절">舜諡也 諡㳒仁聖盛明曰舜</Text></Citation>
+						<Citation id = "C01L063_GCI6" name = "요전63구_훈고6인용"><Refer id = "C01L063_GCI6R" name = "요전63구_훈고6인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L063_GCI6T" name = "요전63구_훈고6인용구절">虞舜者名重蕐</Text></Citation>
+						<Citation id = "C01L063_GCI7" name = "요전63구_훈고7인용"><Refer id = "C01L063_GCI7R" name = "요전63구_훈고7인용출처"><Book id = "B004" korname = "삼국지" chiname = "三國志">三國</Book><Part id = "Pa002" korname = "위지" chiname = "魏志">魏志</Part></Refer> <Person id = "P035" korname = "고귀향공" chiname = "高貴鄕公">高貴鄕公</Person>曰<Text id = "C01L063_GCI7T" name = "요전63구_훈고7인용구절">舜年旣在立 聖德光明 久不進用 何也 博士<Person id = "P036" korname = "순우준" chiname = "淳于峻">淳于峻</Person><Margin>淳于峻作□峻</Margin>曰 堯求賢欲遜己位 嶽曰否德 堯復使嶽 揚舉仄陋 然後薦舜 薦舜之本 實由於堯 盖聖 人欲盡衆心也</Text></Citation>				
+						<Citation id = "C01L063_GCI8" name = "요전63구_훈고8인용"><Refer id = "C01L063_GCI8R" name = "요전63구_훈고8인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person><Book id = "B047" korname = "육예론" chiname = "六藝論">六藝論</Book></Refer>曰<Text id = "C01L063_GCI8T" name = "요전63구_훈고8인용구절">若堯知命在舜 舜知命在禹 猶求於羣臣 舉於側陋 上下交讓 務在服人<Person id = "P015" korname = "공자" chiname = "孔子">孔子</Person>曰 民可使由之 不可使知之 此之謂也</Text></Citation>
+						</Glossary>
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L064" name = "요전64구" content = "帝曰兪 予聞如何 岳曰瞽子 父頑 母嚚 象傲 克諧以孝 烝烝乂 不格姦">帝曰兪 予聞如何 岳曰瞽子 父頑 母嚚 象傲 克諧以孝 烝烝乂 不格姦
+					<Commentary id = "C01L064C" name = "요전64구주석">
+						<Collation id = "C01L064_C" name = "요전64구_교감">
+							<Citation id = "C01L064_CCI1" name = "요전64구_교감1인용"><Refer id = "C01L064_CCI1R" name = "요전64구_교감1인용출처"><Book id = "B034" korname = "문선주" chiname = "文選注">文選</Book><Part id = "Pa035" korname = "동경부" chiname = "東京賦">張衡賦</Part>注<Person id = "P012" korname = "이선" chiname = "李善">李善</Person></Refer>引此 作蒸蒸<Text id = "C01L064_CCI1T" name = "요전64구_교감1인용구절"><Person id = "P037" korname = "설종" chiname = "嶭綜">嶭綜</Person>曰<Book id = "B048" korname = "광아" chiname = "廣雅">廣雅</Book>蒸蒸孝也</Text></Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L065" name = "요전65구" content = "帝曰我其試哉">帝曰我其試哉
+					<Commentary id = "C01L065C" name = "요전65구주석">
+						<Glossary id = "C01L065_G" name = "요전65구_훈고">
+							<Citation id = "C01L065_GCI1" name = "요전65구_훈고1인용"><Refer id = "C01L065_GCI1R" name = "요전65구_훈고1인용출처"><Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>曰<Text id = "C01L065_GCI1T" name = "요전65구_훈고1인용구절">試以爲臣之事</Text></Citation>
+							<Citation id = "C01L065_GCI2" name = "요전65구_훈고2인용"><Refer id = "C01L065_GCI2R" name = "요전65구_훈고2인용출처"><Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person></Refer>曰<Text id = "C01L065_GCI2T" name = "요전65구_훈고2인용구절">試之以官</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L065_C" name = "요전65구_교감">
+							<Citation id = "C01L065_CCI1" name = "요전65구_교감1인용"><Refer id = "C01L065_CCI1R" name = "요전65구_교감1인용출처"><Person id = "P002" korname = "공영달" chiname = "孔穎達">孔穎達</Person></Refer>曰<Text id = "C01L065_CCI1T" name = "요전65구_교감1인용구절"><Book id = "B026" korname = "마본" chiname = "馬本">馬</Book><Book id = "B019" korname = "정본" chiname = "鄭本">鄭</Book><Book id = "B049" korname = "왕본" chiname = "王本">王本</Book> 說此經 皆無帝曰二字 當時庸生之徒漏之也</Text></Citation>
+						</Collation>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L066" name = "요전66구" content = "女于時 觀厥刑于二女">女于時 觀厥刑于二女
+					<Commentary id = "C01L066C" name = "요전66구주석">
+						<Glossary id = "C01L066_G" name = "요전66구_훈고">
+							<Citation id = "C01L066_GCI1" name = "요전66구_훈고1인용"><Refer id = "C01L066_GCI1R" name = "요전66구_훈고1인용출처"><Person id = "P038" korname = "유향" chiname = "劉向">劉向</Person><Book id = "B050" korname = "열녀전" chiname = "列女傳">列女傳</Book></Refer><Text id = "C01L066_GCI1T" name = "요전66구_훈고1인용구절">二女長曰娥皇 次曰女英 舜旣升爲天子 娥皇爲后 女英爲妃</Text></Citation>
+							<Citation id = "C01L066_GCI2" name = "요전66구_훈고2인용"><Refer id = "C01L066_GCI2R" name = "요전66구_훈고2인용출처"><Book id = "B041" korname = "논형" chiname = "論衡">論衡</Book></Refer><Text id = "C01L066_GCI2T" name = "요전66구_훈고2인용구절">堯曰 我其試哉 說尚書曰 試者用也 我其用之爲天子也 又曰女于時 觀厥刑于二女 觀者觀爾虞舜於天下 不謂堯自觀之 若此者 高大堯舜 以爲聖人相□已審 不須觀試 夫堯聞舜賢 四嶽舉之 心知其 奇 而未必知其能 故言我其試哉 試之於職 妻以二女 觀其夫婦之法 夫文言觀試 觀試其才也 而說家 □飾 使事失正 譌說之傳久矣</Text></Citation> 
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L067" name = "요전67구" content = "釐降二女于嬀汭">釐降二女于嬀汭
+					<Commentary id = "C01L067C" name = "요전67구주석">
+						<Glossary id = "C01L067_G" name = "요전67구_훈고">
+							<Citation id = "C01L067_GCI1" name = "요전67구_훈고1인용"><Refer id = "C01L067_GCI1R" name = "요전67구_훈고1인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L067_GCI1T" name = "요전67구_훈고1인용구절">舜下二女於嬀汭 荀爽對筞 釐降二女於嬀汭 降下也 下嫁於嬀</Text></Citation>	
+							<Citation id = "C01L067_GCI2" name = "요전67구_훈고2인용"><Refer id = "C01L067_GCI2R" name = "요전67구_훈고2인용출처"><Book id = "B015" korname = "한서" chiname = "漢書">漢</Book><Part id = "Pa015" korname = "율력지" chiname = "律歷志">律歷志</Part></Refer><Text id = "C01L067_GCI2T" name = "요전67구_훈고2인용구절">帝舜處虞之嬀汭</Text></Citation>
+							<Citation id = "C01L067_GCI3" name = "요전67구_훈고3인용"><Refer id = "C01L067_GCI3R" name = "요전67구_훈고3인용출처"><Book id = "B051" korname = "수경주" chiname = "水經注">水經注</Book><Person id = "P039" korname = "역도원" chiname = "酈道元">酈道元</Person></Refer>曰<Text id = "C01L067_GCI3T" name = "요전67구_훈고3인용구절">蒲阪縣 <Person id = "P040" korname = "황보" chiname = "皇甫">皇甫</Person>譎曰 舜所都也 今城中有舜廟 後置河東郡 郡南有歷山 舜所耕□也 有舜井 嬀汭二水出焉 南曰嬀水 北曰 汭水 西徑歷山下 上有舜廟余按尚書 釐降二女於嬀汭 <Person id = "P024" korname = "공안국" chiname = "孔安國">孔安國</Person>曰 居嬀水之内 <Person id = "P004" korname = "왕숙" chiname = "王肅">王肅</Person>曰嬀汭虞地名<Person id = "P040" korname = "황보" chiname = "皇甫">皇甫</Person>曰 納二女於嬀水之汭 <Person id = "P041" korname = "마계장" chiname = "馬季長">馬季長</Person>曰 水所出曰汭 然則汭似非水名 而今見二水 異源同歸 渾流西注入 於河</Text></Citation>
+							<Citation id = "C01L067_GCI4" name = "요전67구_훈고4인용">又曰<Text id = "C01L067_GCI4T" name = "요전67구_훈고4인용구절">漢水東逕嬀墟灘 世本曰 舜居嬀汭 在漢中西城縣 或言嬀在西北 舜所居也</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L068" name = "요전68구" content = "嬪于虞">嬪于虞
+					<Commentary id = "C01L068C" name = "요전68구주석">
+						<Glossary id = "C01L068_G" name = "요전68구_훈고">
+							<Citation id = "C01L068_GCI1" name = "요전68구_훈고1인용"><Refer id = "C01L068_GCI1R" name = "요전68구_훈고1인용출처"><Part id = "Pa009" korname = "태재" chiname = "太宰">太宰</Part>注<Person id = "P001" korname = "정현" chiname = "鄭玄">鄭玄</Person></Refer>引此云<Text id = "C01L068_GCI1T" name = "요전68구_훈고1인용구절">嬪婦人之美稱也</Text></Citation>
+							<Citation id = "C01L068_GCI2" name = "요전68구_훈고2인용"><Refer id = "C01L068_GCI2R" name = "요전68구_훈고2인용출처"><Person id = "P042" korname = "순상" chiname = "荀爽">荀爽</Person>對策</Refer><Text id = "C01L068_GCI2T" name = "요전68구_훈고2인용구절">嬪于虞 嬪者婦也 言雖帝堯之女 猶屈體降下 勤修婦道</Text></Citation>
+							<Citation id = "C01L068_GCI3" name = "요전68구_훈고3인용"><Refer id = "C01L068_GCI3R" name = "요전68구_훈고3인용출처"><Book id = "B052" korname = "죽서기년" chiname = "竹書紀年">竹書紀年</Book></Refer><Text id = "C01L068_GCI3T" name = "요전68구_훈고3인용구절">帝堯七十一年命二女嬪于虞</Text></Citation>
+							<Citation id = "C01L068_GCI4" name = "요전68구_훈고4인용"><Refer id = "C01L068_GCI4R" name = "요전68구_훈고4인용출처"><Book id = "B038" korname = "제왕세기" chiname = "帝王世紀">帝王世紀</Book></Refer><Text id = "C01L068_GCI4T" name = "요전68구_훈고4인용구절">嬪于虞 因以虞爲氏 虞今河東大陽縣西山上虞 城是也</Text></Citation>
+							<Citation id = "C01L068_GCI5" name = "요전68구_훈고5인용"><Refer id = "C01L068_GCI5R" name = "요전68구_훈고5인용출처"><Book id = "B051" korname = "수경주" chiname = "水經注">水經注</Book><Person id = "P039" korname = "역도원" chiname = "酈道元">酈道元</Person></Refer>曰<Text id = "C01L068_GCI5T" name = "요전68구_훈고5인용구절">大陽縣東北 有虞原 原上道東 有虞城 堯妻舜 以嬪於虞者也</Text></Citation>
+						</Glossary>		
+					</Commentary>
+				</Line>
+
+				<Line id = "C01L069" name = "요전69구" content = "帝曰欽哉">帝曰欽哉
+					<Commentary id = "C01L069C" name = "요전69구주석">
+						<Glossary id = "C01L069_G" name = "요전69구_훈고">
+							<Citation id = "C01L069_GCI1" name = "요전69구_훈고1인용"><Refer id = "C01L069_GCI1R" name = "요전69구_훈고1인용출처"><Part id = "Pa004" korname = "오제본기" chiname = "五帝本紀">五帝本紀</Part></Refer><Text id = "C01L069_GCI1T" name = "요전69구_훈고1인용구절">如婦禮 堯善之</Text></Citation>
+						</Glossary>
+						<Collation id = "C01L069_C" name = "요전69구_교감">
+							<Mention><NewOldText id = "NO008"><Book id = "B054" korname = "금문상서" chiname = "今文尙書">今文</Book>及<Citation id = "C01L069_CCI1" name = "요전69구_교감1인용"><Refer id = "C01L069_CCI1R1" name = "요전69구_교감1인용출처1"><Book id = "B026" korname = "마본" chiname = "馬本">馬</Book></Refer><Refer id = "C01L069_CCI1R2" name = "요전69구_교감1인용출처2"><Book id = "B019" korname = "정본" chiname = "鄭本">鄭</Book></Refer><Refer id = "C01L069_CCI1R3" name = "요전69구_교감1인용출처3"><Book id = "B049" korname = "왕본" chiname = "王本">王本</Book></Refer>堯舜典合爲一 </Citation>
+							<Citation id = "C01L069_CCI2" name = "요전69구_교감2인용"><Refer id = "C01L069_CCI2R" name = "요전69구_교감2인용출처"><Person id = "P043" korname = "매색" chiname = "梅賾">梅賾</Person></Refer>所上<Person id = "P024" korname = "공안국" chiname = "孔安國">孔</Person>傳<Book id = "B053" korname = "고문상서" chiname = "古文尙書">古文</Book> 猶闕舜典 乃分愼徽五典以下 爲舜典之初</Citation></NewOldText></Mention>
+						</Collation>		
+					</Commentary>
+				</Line>
+			</Chapter>				
+		</Section>
+	</Volume>
+</Book>
