@@ -372,7 +372,7 @@
 								<Text id="C01P04L02_GGYCI2T" name="요전4장2구_고이2인용구절">作郁夷</Text><SCommentary><Refer id="C01P04L02_GGYCI2R" name="요전4장2구_고이2인용출처"><Part id="" korname="요본기" chiname="堯本紀">堯本紀</Part></Refer></SCommentary></Citation>
 							<Citation id="C01P04L02_GGYCI3" name="요전4장2구_고이3인용">
 								<Refer id="C01P04L02_GGYCI3R" name="요전4장2구_고이3인용출처"><Book id="" korname="상서고령요" chiname="尙書考靈耀">緯書</Book></Refer>
-								<Text id="C01P04L02_GGYCI3T" name="요전4장2구_고이3인용구절">作禺銕</Text></Citation><SCommentary><Refer id="C01P04L02_GGYCI3R" name="요전4장2구_고이3인용출처"><Book id="" korname="상서고령요" chiname="尙書考靈耀">考靈耀</Book></Refer></Citation><Citation id="C01P04L02_GGYCI4" name="요전4장2구_고이4인용"><Refer id="C01P04L02_GGYCI4R" name="요전4장2구_고이4인용출처"><Book id="" korname="정본" chiname="鄭本">鄭本</Book></Refer></Citation>同</SCommentary>
+								<Text id="C01P04L02_GGYCI3T" name="요전4장2구_고이3인용구절">作禺銕</Text></Citation><SCommentary><Refer id="C01P04L02_GGYCI3R" name="요전4장2구_고이3인용출처"><Book id="" korname="상서고령요" chiname="尙書考靈耀">考靈耀</Book></Refer></Citation><Citation id="C01P04L02_GGYCI4" name="요전4장2구_고이4인용"><Refer id="C01P04L02_GGYCI4R" name="요전4장2구_고이4인용출처"><Book id="" korname="정본" chiname="鄭本">鄭本</Book></Refer>同</SCommentary></Citation>
 							<Citation id="C01P04L02_GGYCI5" name="요전4장2구_고이5인용">
 								<Refer id="C01P04L02_GGYCI5R" name="요전4장2구_고이5인용출처"><Book id="" korname="설문해자" chiname="說文解字">說文</Book></Refer>
 								<Text id="C01P04L02_GGYCI5T1" name="요전4장2구_고이5인용1구절">作堣</Text>亦作<Text id="C01P04L02_GGYCI5T2" name="요전4장2구_고이5인용2구절">堣銕</Text></Citation>
