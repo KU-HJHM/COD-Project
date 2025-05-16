@@ -1,0 +1,20 @@
+이 xml 파일은 18~19세기 조선 학자인 ‘석천 신작’이 저술한 ‘尙書’의 주석서인 ‘尙書古注’라는 책을 텍스트의 위계질서와 특성에 따라 임의의 태그를 부여한 결과물이야.
+
+xml 파일에서 Table 형태로 내가 원하는 데이터를 출력하고 싶어.
+
+xml 파일에 언급된 모든 <Citation> 태그와 관련된 값을 추출할거야.
+ 
+1. 모든 <Citation>의 id
+2. 모든 <Citation>의 name
+3. 모든 <Citation>의 Parent tag 
+ 1) Parent tag가 <Glossary>인지, <Collation>인지 식별
+ 2) Parent tag가 <Opin>이라면 그 상위 태그가 <Glossary>인지 <Collation>인지 식별
+4. 모든 <Citation> 내의 <Text> 태그값
+ 1) <Text> 태그값이란, <Text>( )</Text>가 있을 때 ( )를 의미해
+ 2) <Text> 태그 내에 다른 태그가 있다면 태그를 무시하고 태그값만 추출해줘 
+  예시: <Text>( <Person>( )</Person> )</Text> 에서 (  ( )  ) 를 추출해주면 돼
+5. 모든 <Citation> 내의 값
+ 1) <Citation> 태그 내에 아무런 태그도 없는 데이터가 있어. 예를 들면 <Citation id = "C01_CCI1" name = "요전_교감1인용"><Refer id = "C01_CCI1R" name = "요전_교감1인용출처"><Book id = "B007" korname = "대학" chiname = "大學">大學</Book></Refer>引此 堯作帝</Citation>1번부터 4번까지의 질문만으로는 <Text> 태그 내에 위치하지 않은 ‘大學引此 堯作帝’라는 값을 추출할 수 없어. 그래서 5번 질문을 만든거야. <Text> 태그 내에 위치하지 않더라도 <Citation> 내에 있는 값이라면 추출해줘. 
+이상 1번부터 5번까지의 사항을 추출해서 
+1행: id(1번 질문에 대한 답) / name(2번 질문에 대한 답) / area(3번 질문에 대한 답) / content(4번, 5번 질문에 대한 답) 의 형태로 각 행의 열에 값을 table로 순서대로 정리해줘 
+값이 너무 많다면 엑셀 파일로 만들어줘도 좋아
